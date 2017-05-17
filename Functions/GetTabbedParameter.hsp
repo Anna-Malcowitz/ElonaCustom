@@ -1,0 +1,49 @@
+/*
+	Searches lines in the file FilePath for a line starting with the string SearchString, and returns
+	the parameter tabbed TabbedCount times. 
+	
+	When TabbedCount is 0 or not specified, returns the entire line after the first tab (backwards-compatability).
+	If TabbedCount is higher than the actual number of tabs, will return the last tabbed parameter.
+	
+	Should not be used for loading multiple parameters from a large file.
+*/
+#defcfunc GetTabbedParameter str FilePath, str SearchString, int TabbedCount
+	exist exedir + FilePath
+	if ( strsize == (-1)) {
+		dialog "The file " + exedir + FilePath +" does not exist."
+		return "-1"
+	} else {
+		buf = ""
+		ReturnString = ""
+		notesel buf
+		noteload exedir + FilePath
+		repeat noteinfo(0)
+			noteget FileLoadString_1, cnt
+			LoopCount = 0
+			if ( instr( FileLoadString_1, 0, SearchString) != (-1)) {
+				if(strmid(FileLoadString_1, 0, strlen(SearchString)) == SearchString){
+					while LoopCount < TabbedCount
+						StringOffset = instr(FileLoadString_1, 0, "\t")
+						FileLoadString_1 = strmid(FileLoadString_1, StringOffset + 1, strlen(FileLoadString_1) - StringOffset)
+						LoopCount++
+						if(LoopCount == TabbedCount){
+							StringOffset = instr(FileLoadString_1, 0, "\t")
+							if(StringOffset != (-1)){
+								FileLoadString_1 = strmid(FileLoadString_1, 0, StringOffset)
+							}
+							ReturnString = FileLoadString_1
+						}
+					wend
+					if(TabbedCount == 0){
+						StringOffset = instr(FileLoadString_1, 0, "\t")
+						ReturnString = strmid(FileLoadString_1, StringOffset + 1, strlen(FileLoadString_1) - StringOffset)
+					}
+					break
+				}
+			}
+		loop
+		noteunsel
+		return ReturnString
+	}
+	noteunsel
+	return ""

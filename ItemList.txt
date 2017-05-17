@@ -1,0 +1,2135 @@
+ID	Type	Name	Value
+1066.JP	-	スターダスト	0
+1066.EN	-	stardust	0
+1065.JP	-	素敵な花束	0
+1065.EN	-	lovely bouquet	0
+1064.JP	-	退芭符	0
+1064.EN	-	ohuda	0
+1063.JP	-	《ヨワリ・テスカトル》	0
+1063.EN	-	<Yohualli Tezcatl>	0
+1062.JP	-	バイオプリンター	0
+1062.EN	-	bio printer	0
+1061.JP	-	野花	0
+1061.EN	-	Wildflowers	0
+1060.JP	-	名工のリペアキット	0
+1060.EN	-	craft repair kit	0
+1059.JP	-	プレゼント	0
+1059.EN	-	present	0
+1058.JP	-	《グリエルゼン》	0
+1058.EN	-	<Guliwelzen>	0
+1057.JP	-	茶葉	0
+1057.EN	-	tea leaf	0
+1056.JP	-	コーヒー豆	0
+1056.EN	-	coffee beans	0
+1055.JP	-	稲	0
+1055.EN	-	rice	0
+1054.JP	-	万能ムギ	0
+1054.EN	-	bannou mugi	0
+1053.JP	bottle	醤油	0
+1053.EN	bottle	soy sauce	0
+1052.JP	bottle	コショウ	0
+1052.EN	bottle	pepper	0
+1051.JP	-	連装花火ランチャー	0
+1051.EN	-	hanabi	0
+1050.JP	-	ビジャーキー	0
+1050.EN	-	b-jerky	0
+1049.JP	-	《邪成鎌ネクロマンティス》	0
+1049.EN	-	<Necromantis>	0
+1048.JP	-	吸い殻	0
+1048.EN	-	suigara	0
+1047.JP	-	キセル	0
+1047.EN	-	kiseru	0
+1046.JP	-	パイプ	0
+1046.EN	-	tobacco pipe	0
+1045.JP	-	葉巻	0
+1045.EN	-	hamaki	0
+1044.JP	-	紙巻タバコ	0
+1044.EN	-	cigarette	0
+1043.JP	-	タバコ	0
+1043.EN	-	tobacco	0
+1042.JP	-	《ズガイクライ》	0
+1042.EN	-	<Zugaikurai>	0
+1041.JP	-	ブロンズ硬貨	0
+1041.EN	-	bronze coin	0
+1040.JP	-	不思議の国のキノコスープ	0
+1040.EN	-	soup of wonderland	0
+1039.JP	-	《髑髏三日月》	0
+1039.EN	-	<Dokuro-Mikaduki>	0
+1038.JP	-	《ヘルティアーレ》	0
+1038.EN	-	<Heltiarre>	0
+1037.JP	-	エレメントアイズ	0
+1037.EN	-	Elements Eyes	0
+1036.JP	-	揮発油	0
+1036.EN	-	gasoline	0
+1035.JP	-	精油	0
+1035.EN	-	essential oil	0
+1034.JP	-	《鎖惨渦》	0
+1034.EN	-	<Sasanqua Sickle>	0
+1033.JP	spellbook	ハイドロボルトの魔法書	0
+1033.EN	spellbook	water beam	0
+1032.JP	rod	泡沫の波動の杖	0
+1032.EN	rod	bubble ball	0
+1031.JP	-	アトミックランチャー	0
+1031.EN	-	atomic launcher	0
+1030.JP	-	M202スペシャル	0
+1030.EN	-	M202 special	0
+1029.JP	-	パンツァーファウストＸ	0
+1029.EN	-	panzerfaust X	0
+1028.JP	-	快眠ブランケット	0
+1028.EN	-	pleasant sleep blanket	0
+1027.JP	rod	マジックレーザーの杖	0
+1027.EN	rod	magic laser	0
+1026.JP	rod	猛毒の波動の杖	0
+1026.EN	rod	poison ball	0
+1025.JP	-	《イェーキュブ・スフィア》	0
+1025.EN	-	<Amulet of Yekub>	0
+1024.JP	-	研究員の閻魔帳	0
+1024.EN	-	researcher's diary	0
+1023.JP	-	ファーストエイド	0
+1023.EN	-	first aid kit	0
+1022.JP	-	特殊矢弾箱	0
+1022.EN	-	special ammos box	0
+1021.JP	-	コマンドタクト	0
+1021.EN	-	Taktstock	0
+1020.JP	-	《流星群のセスタス》	0
+1020.EN	-	<Cestus of Meteors>	0
+1019.JP	-	ヘヴィダンベル	0
+1019.EN	-	<Dumbbell of Opatos>	0
+1018.JP	-	健康のお守り	0
+1018.EN	-	<Amulet of Jure>	0
+1017.JP	-	媚赤蝋燭	0
+1017.EN	-	<Candle of Luluwy>	0
+1016.JP	-	特殊信号拳銃	0
+1016.EN	-	<Very pistol of Mani>	0
+1015.JP	-	レッドアンダーリム	0
+1015.EN	-	<Glasses of Yacatect>	0
+1014.JP	-	古霜の栞	0
+1014.EN	-	<Bookmark of Itzpalt>	0
+1013.JP	-	おさかなマグカップ	0
+1013.EN	-	<Mug of Ehekatl>	0
+1012.JP	-	輪廻鋏	0
+1012.EN	-	<Scissors of Kumiromi>	0
+1011.JP	-	魔女の練り菓子	0
+1011.EN	-	kneaded sweets of witch	0
+1010.JP	-	《ブラッドロッド》	0
+1010.EN	-	<Blood rod>	0
+1009.JP	-	爆発する原子力の死んだライオン	0
+1009.EN	-	NUCLEAR DEAD LION	0
+1008.JP	-	暴魔の大剣	0
+1008.EN	-	violent skull sword	0
+1007.JP	-	《GARMS-2》	0
+1007.EN	-	<Mighty Arms>	0
+1006.JP	-	《ウィーテハウク》	0
+1006.EN	-	<The White Hawk>	0
+1005.JP	bottle	-	0
+1005.EN	bottle	-	0
+1004.JP	-	ジュースミキサー	0
+1004.EN	-	Juice mixer	0
+1003.JP	-	アルファ変異殻	0
+1003.EN	-	alpha shift core	0
+1002.JP	-	ベータ変異殻	0
+1002.EN	-	beta shift core	0
+1001.JP	-	ガンマ変異殻	0
+1001.EN	-	gamma shift core	0
+1000.JP	-	デルタ変異殻	0
+1000.EN	-	delta shift core	0
+999.JP	-	オメガ変異殻	0
+999.EN	-	omega shift core	0
+998.JP	-	《ソニックブルーム》	0
+998.EN	-	<Sonic Broom>	0
+997.JP	-	《鬼のパンツ》	0
+997.EN	-	<Pants of Ogre>	0
+996.JP	-	《イオンチャクラム》	0
+996.EN	-	<Ion Cakram>	0
+995.JP	-	《スパディール》	0
+995.EN	-	<Spadille>	0
+994.JP	-	四次元ミラー	0
+994.EN	-	4-Dimensional mirror	0
+993.JP	-	空の大型バスケット	0
+993.EN	-	large empty basket	0
+992.JP	-	大型ピクニックバスケット	0
+992.EN	-	large picnic basket	0
+991.JP	-	異界墓地の鍵	0
+991.EN	-	DD cemetery key	0
+990.JP	-	不思議な秘宝	0
+990.EN	-	wonder body former	0
+989.JP	-	トリス・マギストス	0
+989.EN	-	trismagistus	0
+988.JP	-	マギスト	0
+988.EN	-	magistus	0
+987.JP	-	暴れる魔剣	0
+987.EN	-	skull sword	0
+986.JP	-	《HL-KRSW》	0
+986.EN	-	<HL-KRSW>	0
+985.JP	-	《ラッキーアーモンド》	0
+985.EN	-	<Lucky Almonds>	0
+984.JP	-	デュエルグローブ	0
+984.EN	-	duel glove	0
+983.JP	-	《ブラッディ・ティアーズ》	0
+983.EN	-	<Bloody Tears>	0
+982.JP	-	眠り羊の夢枕	0
+982.EN	-	sleep sheep	0
+981.JP	-	《ウサミミ》	0
+981.EN	-	<Usamimi>	0
+980.JP	-	インサイトレンズ	0
+980.EN	-	insight lens	0
+979.JP	-	かぼちゃランタン	0
+979.EN	-	jack lantern	0
+978.JP	spellbook	集中の魔法書	0
+978.EN	spellbook	concentration	0
+977.JP	potion	翼鳥のポーション	0
+977.EN	potion	feather	0
+976.JP	potion	集中力向上のポーション	0
+976.EN	potion	concentration	0
+975.JP	-	《アルジェントスノウ》	0
+975.EN	-	<Argent Snow>	0
+974.JP	-	《アイヴィ・スパイン》	0
+974.EN	-	<Ivy Spine>	0
+973.JP	-	マグナム弾	0
+973.EN	-	magnum	0
+972.JP	-	被水の勾玉	0
+972.EN	-	magaqua	0
+971.JP	-	九神の印	0
+971.EN	-	nine god sign	0
+970.JP	jewel	神雫石	0
+970.EN	jewel	tear of god	0
+969.JP	jewel	ネフィアティア	0
+969.EN	jewel	core of nefia	0
+968.JP	-	マインドディスク	0
+968.EN	-	mind disc	0
+967.JP	-	E,G,G	0
+967.EN	-	E.G.G	0
+966.JP	statue	天使の像	0
+966.EN	statue	angel statue	0
+965.JP	-	ミニチュアゴーレム	0
+965.EN	-	small stone golem	0
+964.JP	-	地蔵	0
+964.EN	-	zizou	0
+963.JP	statue	仏像	0
+963.EN	statue	butuzou	0
+962.JP	-	ミニチュアゴーレム	0
+962.EN	-	small wooden golem	0
+961.JP	-	ペットハウス	0
+961.EN	-	pethouse	0
+960.JP	-	石材	0
+960.EN	-	stone material	0
+959.JP	-	《メロディウス》	0
+959.EN	-	<Melodyus>	0
+958.JP	-	《グランデイル》	0
+958.EN	-	<Grandel>	0
+957.JP	-	《スンバラリアヘッド》	0
+957.EN	-	<Sunbararia Helm>	0
+956.JP	-	鞭	0
+956.EN	-	whip	0
+955.JP	-	ソックス	0
+955.EN	-	sox	0
+954.JP	-	鎖鎌	0
+954.EN	-	chainsickle	0
+953.JP	-	弩砲	0
+953.EN	-	ballista	0
+952.JP	-	特製深海弁当	0
+952.EN	-	abyss lunch	0
+951.JP	-	《N97対戦艦自動砲》	0
+951.EN	-	<N97 Cannon>	0
+950.JP	-	《トリシューラ》	0
+950.EN	-	<Trishula>	0
+949.JP	-	《大太刀鳳閃火》	0
+949.EN	-	<Housenka>	0
+948.JP	-	《音切爪》	0
+948.EN	-	<Otogiri>	0
+947.JP	-	ジュークボックス	0
+947.EN	-	Juke box	0
+946.JP	-	四つ葉のクローバー	0
+946.EN	-	four-leaf clover	0
+945.JP	-	ロミアス	0
+945.EN	-	romias	0
+944.JP	-	柿	0
+944.EN	-	kaki	0
+943.JP	-	黄金どんぐり	0
+943.EN	-	gold acorn	0
+942.JP	-	どんぐり	0
+942.EN	-	acorn	0
+941.JP	-	火吸の勾玉	0
+941.EN	-	magatama	0
+940.JP	-	《アステロイドベルト》	0
+940.EN	-	<Asteroid Belt>	0
+939.JP	-	大岩	0
+939.EN	-	rock	0
+938.JP	-	鉤爪	0
+938.EN	-	claw	0
+937.JP	-	連弩	0
+937.EN	-	repeating bow	0
+936.JP	-	材木	0
+936.EN	-	wood material	0
+935.JP	tree	常世桜	0
+935.EN	tree	sakura	0
+934.JP	-	-	0
+934.EN	-	-	0
+933.JP	-	麻薬煙管	0
+933.EN	-	kisel	0
+932.JP	-	クラムベリー	0
+932.EN	-	crimberry	0
+931.JP	black gem stone	覚醒の宝玉	0
+931.EN	black gem stone	Wake up of nefia	0
+930.JP	red spindle	リンカネイト	0
+930.EN	red spindle	soul spindle	0
+929.JP	-	オカリナ	0
+929.EN	-	ocarina	0
+928.JP	-	リコーダー	0
+928.EN	-	recorder	0
+927.JP	-	セルパン	0
+927.EN	-	serpent	0
+926.JP	jewel	ルビナス	0
+926.EN	jewel	brilliant rubynus	0
+925.JP	tablet	エメラルド・タブレット	0
+925.EN	tablet	emerald tablet	0
+924.JP	jewel	ダイヤモンド	0
+924.EN	jewel	brilliant diamond	0
+923.JP	-	《ガルバグナウ》	0
+923.EN	-	<Gur Bagh Nakh>	0
+922.JP	-	《ネイベル・ネクス》	0
+922.EN	-	<Astral Sickle>	0
+921.JP	-	大型ブラシ	0
+921.EN	-	big brush	0
+920.JP	-	有機肥料	0
+920.EN	-	organic fertilizer	0
+919.JP	-	ナス	0
+919.EN	-	eggplant	0
+918.JP	-	コーン	0
+918.EN	-	corn	0
+917.JP	-	ポテト	0
+917.EN	-	potato	0
+916.JP	-	パイン	0
+916.EN	-	pineapple	0
+915.JP	-	梨	0
+915.EN	-	apple pear	0
+914.JP	-	バナナ	0
+914.EN	-	banana	0
+913.JP	-	メロン	0
+913.EN	-	muskmelon	0
+912.JP	-	スイカ	0
+912.EN	-	watermelon	0
+911.JP	bottle	永久防腐剤	0
+911.EN	bottle	antiseptic	0
+910.JP	-	ミニチュア魔導船	0
+910.EN	-	miniature blimp	0
+909.JP	deed	廃モンスター牧場の権利書	0
+909.EN	deed	discarded ranch	0
+908.JP	-	《常闇の杖》	0
+908.EN	-	<Vice Staff>	0
+907.JP	-	チョコレート手作りキット	0
+907.EN	-	kit of making chocolate	0
+906.JP	-	栗	0
+906.EN	-	chestnut	0
+905.JP	-	《危険な水着》	0
+905.EN	-	<Danger Swimwear>	0
+904.JP	-	《ウォースーツ》	0
+904.EN	-	<War Suit>	0
+903.JP	-	闇の棺	0
+903.EN	-	coffin of necromancy	0
+902.JP	-	たらばがに	0
+902.EN	-	coconut crab 	0
+901.JP	rod	雷光の波動の杖	0
+901.EN	rod	lightning ball	0
+900.JP	-	アストラル光筆	0
+900.EN	-	astral light pen	0
+899.JP	-	《グラビトンアクス》	0
+899.EN	-	<Gravity Axe>	0
+898.JP	-	《ドレイクロッド》	0
+898.EN	-	<Drake Rod>	0
+897.JP	deed	引越しの権利書	0
+897.EN	deed	removal deed	0
+896.JP	-	誰かの日記	0
+896.EN	-	mysterious diary	0
+894.JP	-	マンドラサラダ	0
+894.EN	-	mandrake salad	0
+893.JP	-	《ST-05 ソニック》	0
+893.EN	-	<Sonic Tonfa>	0
+871.JP	-	《ST-04 セイバー》	0
+871.EN	-	<Saber Tonfa>	0
+850.JP	-	《ST-03 スマッシュ》	0
+850.EN	-	<Smash Tonfa>	0
+892.JP	-	《ST-02 シールド》	0
+892.EN	-	<Shield Tonfa>	0
+895.JP	-	《ST-01 サクリファイス》	0
+895.EN	-	<Sacrifice Tonfa>	0
+891.JP	-	《イーグル＆レオン》	0
+891.EN	-	<Griffon>	0
+890.JP	-	マシンルアー	0
+890.EN	-	<super lure>	0
+889.JP	-	手作りチョコ	0
+889.EN	-	handmade chocolate	0
+888.JP	-	《ムーンライトセーバー》	0
+888.EN	-	<Moonlight>	0
+887.JP	rod	月蝕の波動の杖	0
+887.EN	rod	eclipse	0
+886.JP	-	魔よけの人形	0
+886.EN	-	<Cleaning Doll>	0
+885.JP	high potion	ソーマ	0
+885.EN	high potion	soma	0
+884.JP	high potion	ネクタル	0
+884.EN	high potion	nektar 	0
+883.JP	high potion	大災薬	0
+883.EN	high potion	disaster	0
+882.JP	high potion	サンクティオ	0
+882.EN	high potion	aqua sanctio	0
+881.JP	-	《AA-12アドバンス》	0
+881.EN	-	<AA-12 Advance>	0
+880.JP	-	《斬り札》	0
+880.EN	-	<Slash Joker>	0
+879.JP	-	《アルアビス》	0
+879.EN	-	<Mag-Abyss>	0
+878.JP	-	かきこむ名刺	0
+878.EN	-	Blank Business Card	0
+877.JP	-	賢者の石仮面	0
+877.EN	-	Philosopher's Stone Mask	0
+876.JP	-	犬笛	0
+876.EN	-	<Dog Whistle>	0
+875.JP	-	《七光の大弓》	0
+875.EN	-	<Rainbow>	0
+874.JP	-	《フラッシュボウガン》	0
+874.EN	-	<Flash Crossbow>	0
+873.JP	-	阿形の狛犬	0
+873.EN	-	koma-inu	0
+872.JP	-	吽形の狛犬	0
+872.EN	-	koma-inu	0
+870.JP	spellbook	フェザーの魔法書	0
+870.EN	spellbook	feather	0
+869.JP	-	-	0
+869.EN	-	-	0
+868.JP	-	《スパイラルカオス》	0
+868.EN	-	<Unicorn Drill>	0
+867.JP	-	イス焼き	0
+867.EN	-	yith-yaki	0
+866.JP	-	《ノヴァ・グレネード》	0
+866.EN	-	<Nova Grenade>	0
+865.JP	-	コマンドフラッグ	0
+865.EN	-	command flag	0
+864.JP	-	三角木馬	0
+864.EN	-	wooden horse	0
+863.JP	-	《フレイムザンバー》	0
+863.EN	-	<Flame Edge>	0
+862.JP	-	《ゴルネ・ツィーベル》	0
+862.EN	-	<Zwiebel>	0
+861.JP	-	《シールド・シールド》	0
+861.EN	-	<Sealed Shield>	0
+860.JP	-	《躰蝕の魔杖》	0
+860.EN	-	<Vital flayer>	0
+859.JP	statue	イツパロトル像	0
+859.EN	statue	Itzpalt	0
+858.JP	statue	ヤカテクト像	0
+858.EN	statue	Yacatect	0
+857.JP	-	エフェクト・スキャナー	0
+857.EN	-	effect scanner	0
+856.JP	-	巨大マリモ(荷車)	0
+856.EN	-	marimo	0
+855.JP	-	観賞用レーション(荷車)	0
+855.EN	-	ration	0
+854.JP	-	《釘ストラディバリウス》	0
+854.EN	-	<Nail Stradivarius>	0
+853.JP	-	狂人の日記	0
+853.EN	-	Insane book	0
+852.JP	-	禁断の肉塊	0
+852.EN	-	forbidden meat	0
+851.JP	-	《菊十文字》	0
+851.EN	-	<Gerbera Cross>	0
+849.JP	-	逆玉手弁当	0
+849.EN	-	age return lunch	0
+848.JP	-	玉手弁当	0
+848.EN	-	aging lunch	0
+847.JP	bottle	スピードリンク	0
+847.EN	bottle	speed upper	0
+846.JP	-	《ナイトメア》	0
+846.EN	-	<Nightmare>	0
+845.JP	-	和太鼓	0
+845.EN	-	wadaiko	0
+844.JP	-	かき氷	0
+844.EN	-	shaved ice	0
+843.JP	-	マジカルアイス	0
+843.EN	-	magic ice	0
+842.JP	-	ブラックドリップ	0
+842.EN	-	black drip	0
+841.JP	-	ランプラント	0
+841.EN	-	lamp plant	0
+840.JP	-	カオスジュエル	0
+840.EN	-	chaos jewel	0
+839.JP	-	エーテルの鏡	0
+839.EN	-	ether mirror	0
+838.JP	-	イカロスの翼	0
+838.EN	-	ikaros wing	0
+837.JP	-	トロール細胞	0
+837.EN	-	troll cell	0
+836.JP	-	殺人ＣＤ	0
+836.EN	-	murder CD	0
+835.JP	-	火鉢	0
+835.EN	-	hibachi	0
+834.JP	-	蓄電池	0
+834.EN	-	accumulator	0
+833.JP	-	グリア結晶	0
+833.EN	-	glia crystal	0
+832.JP	-	クズ竜	0
+832.EN	-	waste art	0
+831.JP	-	《神を殺せる本》	0
+831.EN	-	<Buster Book>	0
+830.JP	-	《ライ》	0
+830.EN	-	<Stone Coin>	0
+829.JP	-	《魔断の指輪》	0
+829.EN	-	<Magic Canceler>	0
+828.JP	-	《金色の鎖》	0
+828.EN	-	<Aureate Constricter>	0
+827.JP	-	《精霊手甲》	0
+827.EN	-	<Blue Spirit>	0
+826.JP	-	《妖刀黒鳥兜》	0
+826.EN	-	<Black monkshood>	0
+825.JP	-	ギャラメﾞル	0
+825.EN	-	caramel of termination	0
+824.JP	-	《不殺の刺又》	0
+824.EN	-	<Sasumata>	0
+823.JP	-	《機械拘束具》	0
+823.EN	-	<Mechanical binder>	0
+822.JP	-	《神緑の茨》	0
+822.EN	-	<Green god thorn>	0
+821.JP	-	《大地の足枷》	0
+821.EN	-	<Fetter of earth>	0
+820.JP	-	《運命の輪》	0
+820.EN	-	<Wheel of fortune>	0
+819.JP	-	《暴風の首輪》	0
+819.EN	-	<Tempest coller>	0
+818.JP	Mani's gem stone	マニの切り札の宝玉	0
+818.EN	Mani's gem stone	satellite shooter	0
+817.JP	-	狙撃銃	0
+817.EN	-	sniper rifle	0
+816.JP	-	《ベーラヤ・スメルチ》	0
+816.EN	-	<Valkoinen Kuolema>	0
+815.JP	-	砂のお城	0
+815.EN	-	sand castle	0
+814.JP	-	《メタルヴェスダの機械翼》	0
+814.EN	-	<Metal Wing of Vesda>	0
+813.JP	-	《リボルケイン》	0
+813.EN	-	<Solar Cane>	0
+812.JP	-	おにぎり	0
+812.EN	-	rice ball	0
+811.JP	-	姉の秘密の日記	0
+811.EN	-	dog sister's diary	0
+810.JP	-	《ストームブリンガー》	0
+810.EN	-	<Storm Bringer>	0
+809.JP	-	姉の日記	0
+809.EN	-	older sister's diary	0
+808.JP	-	《カインドネス》	0
+808.EN	-	<Kindness Blade>	0
+807.JP	-	《ドレッドノート》	0
+807.EN	-	<Dreadnought>	0
+806.JP	-	《G3-EXA》	0
+806.EN	-	<G3-EXA>	0
+805.JP	-	《神壊の大戦斧》	0
+805.EN	-	<God Breaker>	0
+804.JP	-	《ギガモールの骨鎌》	0
+804.EN	-	<Beast Sickle>	0
+803.JP	-	《英雄のマント》	0
+803.EN	-	<Hero's cloak>	0
+802.JP	-	《カストル＆ポルックス》	0
+802.EN	-	<Gemini >	0
+801.JP	-	《落椿》	0
+801.EN	-	<Oti-Tubaki>	0
+800.JP	-	《特殊防護スーツ》	0
+800.EN	-	<Awesome Swimwear>	0
+799.JP	-	ヴェルニースオリジナル	0
+799.EN	-	<Vernis Original>	0
+798.JP	-	《轟海刀》	0
+798.EN	-	<Dynamic Saber>	0
+797.JP	Yacatect's gem stone	ヤカテクトの小遣銭の宝玉	0
+797.EN	Yacatect's gem stone	god medal	0
+796.JP	-	《寛永通宝》	0
+796.EN	-	<Kaneituuhou>	0
+795.JP	-	《GAU-17ミニガン改》	0
+795.EN	-	<GAU-17 Custom>	0
+794.JP	-	《ネガティブエッヂ》	0
+794.EN	-	<Negative Edge>	0
+793.JP	-	《パイルバンカー帯電式Y型》	0
+793.EN	-	<Pile Driver>	0
+792.JP	-	プチトロ	0
+792.EN	-	putitoro	0
+791.JP	-	《ドラゴン殺し》	0
+791.EN	-	<Dragon Slayer>	0
+790.JP	-	《賢者の錬金釜》	0
+790.EN	-	pot of alchemist	0
+789.JP	-	合成の壺	0
+789.EN	-	pot for fusion	0
+788.JP	-	骨弓	0
+788.EN	-	skull bow	0
+787.JP	-	ふかふかパン	0
+787.EN	-	puff puff bread	0
+786.JP	sack	砂糖	0
+786.EN	sack	sugar	0
+785.JP	bottle	塩	0
+785.EN	bottle	salt	0
+784.JP	-	カードパック	0
+784.EN	-	card pack	0
+783.JP	-	レシピ	0
+783.EN	-	recipe	0
+782.JP	-	皿	0
+782.EN	-	large dish	0
+781.JP	-	包丁	0
+781.EN	-	kitchen knife	0
+780.JP	-	毛皮の敷物	0
+780.EN	-	fur carpet	0
+779.JP	-	鹿の剥製	0
+779.EN	-	deer head	0
+778.JP	-	高級ソファー	0
+778.EN	-	luxury sofa	0
+777.JP	statue	マニ像	0
+777.EN	statue	Mani	0
+776.JP	statue	クミロミ像	0
+776.EN	statue	Kumiromi	0
+775.JP	-	特製肉まんじゅう	0
+775.EN	-	special steamed meat bun	0
+774.JP	-	高級キャビネット	0
+774.EN	-	luxury cabinet	0
+773.JP	-	おっきな本棚	0
+773.EN	-	large bookshelf	0
+772.JP	-	トマト	0
+772.EN	-	tomato	0
+771.JP	-	ブルーカプセルドラッグ	0
+771.EN	-	blue capsule drag	0
+770.JP	bottle	ラムネ	0
+770.EN	bottle	soda	0
+769.JP	-	ミニチュアツリー	0
+769.EN	-	miniature tree	0
+768.JP	-	正月飾り	0
+768.EN	-	new year's decoration	0
+767.JP	-	ジュアの抱き枕	0
+767.EN	-	Jure's body pillow	0
+766.JP	-	青い屋根の屋台	0
+766.EN	-	blue stall	0
+765.JP	-	赤い屋根の屋台	0
+765.EN	-	red stall	0
+764.JP	-	カウンター	0
+764.EN	-	counter	0
+763.JP	-	台座	0
+763.EN	-	pedestal	0
+762.JP	-	聖夜祭の花冠	0
+762.EN	-	festival wreath	0
+761.JP	-	《グールドのピアノ》	0
+761.EN	-	<Gould's Piano>	0
+760.JP	-	ガロクの槌	0
+760.EN	-	Garok's hammer	0
+759.JP	-	ライトセーバー	0
+759.EN	-	lightsabre	0
+758.JP	-	《マウザーC96カスタム》	0
+758.EN	-	<Mauser C96 Custom>	0
+757.JP	-	《五本角の兜》	0
+757.EN	-	<Five Horned Helm>	0
+756.JP	-	もち	0
+756.EN	-	mochi	0
+755.JP	-	鏡もち	0
+755.EN	-	kagami mochi	0
+754.JP	-	だるま	0
+754.EN	-	daruma	0
+753.JP	-	こたつ	0
+753.EN	-	kotatsu	0
+752.JP	-	お年玉	0
+752.EN	-	new year's gift	0
+751.JP	-	降り階段	0
+751.EN	-	downstairs	0
+750.JP	-	昇り階段	0
+750.EN	-	upstairs	0
+749.JP	statue	創造主の像	0
+749.EN	statue	Creator	0
+748.JP	-	召喚石	0
+748.EN	-	summoning crystal	0
+747.JP	book	ボコノンの書	0
+747.EN	book	Bokonon	0
+746.JP	-	調教鞭	0
+746.EN	-	tamer's whip	0
+745.JP	objet	こころ	0
+745.EN	objet	heart	0
+744.JP	catbox	シュレディンガーの猫	0
+744.EN	catbox	Schrodinger's cat 	0
+743.JP	plank	《カルネアデスの板》	0
+743.EN	plank	Carneades	0
+742.JP	license	すくつ探索許可証	0
+742.EN	license	the void explorer	0
+741.JP	-	《飛竜刀》	0
+741.EN	-	<Hiryu-To>	0
+740.JP	-	《謎の貝》	0
+740.EN	-	<Unknown Shell>	0
+739.JP	-	《フリージアの尻尾》	0
+739.EN	-	<Frisia's Tail>	0
+738.JP	-	フォーチュンクッキー	0
+738.EN	-	fortune cookie	0
+737.JP	scroll	名前の巻物	0
+737.EN	scroll	name	0
+736.JP	-	耐熱コーティング液	0
+736.EN	-	fireproof liquid	0
+735.JP	-	大鎌	0
+735.EN	-	scythe	0
+734.JP	-	小さな宝くじ箱	0
+734.EN	-	small gamble chest	0
+733.JP	-	サンドバッグ	0
+733.EN	-	sand bag	0
+732.JP	spellbook	収穫の魔法書	0
+732.EN	spellbook	harvest	0
+731.JP	spellbook	四次元ポケットの魔法書	0
+731.EN	spellbook	4 dimensional pocket	0
+730.JP	token	友情の証	0
+730.EN	token	friendship	0
+729.JP	-	おみやげ	0
+729.EN	-	gift	0
+728.JP	-	《紅凛》	0
+728.EN	-	<Crimson Plate>	0
+727.JP	-	《棘の盾》	0
+727.EN	-	<Shield ofThorn>	0
+726.JP	-	《アル・ウード》	0
+726.EN	-	<Al'ud>	0
+725.JP	-	《キルキルピアノ》	0
+725.EN	-	<Kill Kill Piano>	0
+724.JP	-	音楽チケット	0
+724.EN	-	music ticket	0
+723.JP	-	《ツインエッジ》	0
+723.EN	-	<Twin Edge>	0
+722.JP	-	《アルバレスト》	0
+722.EN	-	<Arbalest>	0
+721.JP	statue	エヘカトル像	0
+721.EN	statue	Ehekatl	0
+720.JP	-	幸せのベッド	0
+720.EN	-	happy bed	0
+719.JP	-	《クレイモア》	0
+719.EN	-	<Claymore>	0
+718.JP	-	《シーナのパンティー》	0
+718.EN	-	<Shena's Panty>	0
+717.JP	secret experience	ロミアスの秘密の経験	0
+717.EN	secret experience	Lomias	0
+716.JP	-	《バニラロック》	0
+716.EN	-	<Vanilla Rock>	0
+715.JP	secret experience	クミロミの秘密の経験	0
+715.EN	secret experience	Kumiromi	0
+714.JP	-	手榴弾	0
+714.EN	-	grenade	0
+713.JP	-	手裏剣	0
+713.EN	-	shuriken	0
+712.JP	deed	ダンジョンの権利書	0
+712.EN	deed	dungeon	0
+711.JP	potion	進化のポーション	0
+711.EN	potion	evolution	0
+710.JP	spellbook	契約の魔法書	0
+710.EN	spellbook	contingency	0
+709.JP	scroll	契約の巻物	0
+709.EN	scroll	contingency	0
+708.JP	book	復活の書	0
+708.EN	book	resurrection	0
+707.JP	-	《ストラディバリウス》	0
+707.EN	-	<Stradivarius>	0
+706.JP	potion	下落のポーション	0
+706.EN	potion	descent	0
+705.JP	-	《乞食のペンダント》	0
+705.EN	-	<Begger's Pendant>	0
+704.JP	-	ゲロゲロ	0
+704.EN	-	vomit	0
+703.JP	-	ホイッスル	0
+703.EN	-	whistle	0
+702.JP	-	うさぎのしっぽ	0
+702.EN	-	rabbit's tail	0
+701.JP	-	デッキ	0
+701.EN	-	deck	0
+700.JP	-	タウンブック	0
+700.EN	-	town book	0
+699.JP	-	リトル捕獲玉	0
+699.EN	-	little ball	0
+698.JP	potion	食塩水	0
+698.EN	potion	salt solution	0
+697.JP	spellbook	魔力の集積の魔法書	0
+697.EN	spellbook	magic laser	0
+696.JP	spellbook	魔力の嵐の魔法書	0
+696.EN	spellbook	magic ball	0
+695.JP	-	《破壊の斧》	0
+695.EN	-	<Axe of Destruction>	0
+694.JP	-	間仕切り	0
+694.EN	-	eastern partition	0
+693.JP	-	ハープ	0
+693.EN	-	harp	0
+692.JP	-	ハーモニカ	0
+692.EN	-	harmonica	0
+691.JP	-	リュート	0
+691.EN	-	lute	0
+690.JP	-	パンフルート	0
+690.EN	-	pan flute	0
+689.JP	-	ギロチン	0
+689.EN	-	guillotine	0
+688.JP	-	アイアンメイデン	0
+688.EN	-	iron maiden	0
+687.JP	-	古書物	0
+687.EN	-	ancient book	0
+686.JP	statue	ジュア像	0
+686.EN	statue	Jure	0
+685.JP	-	モンスターボール	0
+685.EN	-	monster ball	0
+684.JP	-	能力複合機	0
+684.EN	-	gene machine	0
+683.JP	energy crystal	再構成マトリクス	0
+683.EN	energy crystal	matrix	0
+682.JP	Kumiromi's gem stone	クミロミの活性化の宝玉	0
+682.EN	Kumiromi's gem stone	rejuvenation	0
+681.JP	Jure's gem stone	ジュアの聖なる雨の宝玉	0
+681.EN	Jure's gem stone	holy rain	0
+680.JP	Lulwy's gem stone	ルルウィの神速の宝玉	0
+680.EN	Lulwy's gem stone	god speed	0
+679.JP	-	《大地の大槌》	0
+679.EN	-	Gaia Hammer>	0
+678.JP	-	《ラッキーダガー》	0
+678.EN	-	<Lucky Dagger>	0
+677.JP	-	《ホーリーランス》	0
+677.EN	-	<Holy Rance>	0
+676.JP	-	《エレメンタルスタッフ》	0
+676.EN	-	<Elemental Staff>	0
+675.JP	-	《クミロミサイズ》	0
+675.EN	-	<Kumiromi Sythe>	0
+674.JP	-	《ウィンチェスター・プレミアム》	0
+674.EN	-	<Winchester Premium>	0
+673.JP	-	《ウィンドボウ》	0
+673.EN	-	<Wind Bow>	0
+672.JP	-	秘宝	0
+672.EN	-	secret treasure	0
+671.JP	-	原子爆弾『Cat's Cradle』	0
+671.EN	-	nuclear bomb	0
+670.JP	-	お絵かきセット(荷車)	0
+670.EN	-	canvas	0
+669.JP	-	絵画(荷車)	0
+669.EN	-	art	0
+668.JP	-	レイチェルの絵本	0
+668.EN	-	book	0
+667.JP	-	妹が愛を込めて作ったお弁当	0
+667.EN	-	sister's love fueled lunch	0
+666.JP	statue	ルルウィ像	0
+666.EN	statue	Lulwy	0
+665.JP	statue	オパートス像	0
+665.EN	statue	Opatos	0
+664.JP	-	スピードの指輪	0
+664.EN	-	speed ring	0
+663.JP	-	モンスターハート	0
+663.EN	-	monster heart	0
+662.JP	-	マジックフルーツ	0
+662.EN	-	magic fruit	0
+661.JP	-	《ダル=イ=サリオン》	0
+661.EN	-	<Dal-i-thalion>	0
+660.JP	spellbook	暗黒の矢の魔法書	0
+660.EN	spellbook	darkness arrow	0
+659.JP	-	パーティション	0
+659.EN	-	partition	0
+658.JP	-	提灯	0
+658.EN	-	chochin	0
+657.JP	-	東洋の窓	0
+657.EN	-	eastern window	0
+656.JP	-	灯篭	0
+656.EN	-	eastern lamp	0
+655.JP	-	英雄チーズ	0
+655.EN	-	hero cheese	0
+654.JP	-	ダブルベッド	0
+654.EN	-	double bed	0
+653.JP	-	廃品	0
+653.EN	-	junk	0
+652.JP	-	シンク	0
+652.EN	-	sink	0
+651.JP	-	名工食器棚	0
+651.EN	-	craft cupboard	0
+650.JP	-	トイレ	0
+650.EN	-	toilet	0
+649.JP	-	フェンス付き花壇	0
+649.EN	-	flowerbed	0
+648.JP	-	ソファー	0
+648.EN	-	sofa	0
+647.JP	-	黒板	0
+647.EN	-	black board	0
+646.JP	-	メニューボード	0
+646.EN	-	menu board	0
+645.JP	-	王様箪笥	0
+645.EN	-	king drawer	0
+644.JP	-	カーテン付きの窓	0
+644.EN	-	decorated window	0
+643.JP	-	布団	0
+643.EN	-	eastern bed	0
+642.JP	-	米俵	0
+642.EN	-	rice barrel	0
+641.JP	-	クーラーボックス	0
+641.EN	-	cooler box	0
+640.JP	-	ユニコーンの角	0
+640.EN	-	unicorn horn	0
+639.JP	-	幸運のリンゴ	0
+639.EN	-	happy apple	0
+638.JP	scroll	脱出の巻物	0
+638.EN	scroll	escape	0
+637.JP	-	スケルトンキー	0
+637.EN	-	skeleton key	0
+636.JP	-	ロックピック	0
+636.EN	-	lockpick	0
+635.JP	-	地雷	0
+635.EN	-	mine	0
+634.JP	-	紐	0
+634.EN	-	leash	0
+633.JP	-	ギャルのパンティー	0
+633.EN	-	panty	0
+632.JP	-	羽の生えた巻物	0
+632.EN	-	flying scroll	0
+631.JP	-	ムーンゲート	0
+631.EN	-	moon gate	0
+630.JP	-	素材槌	0
+630.EN	-	material kit	0
+629.JP	-	変装セット	0
+629.EN	-	disguise set	0
+628.JP	spellbook	インコグニートの魔法書	0
+628.EN	spellbook	incognito	0
+627.JP	-	《賢者の兜》	0
+627.EN	-	<Sage's Helm>	0
+626.JP	bottle	ヘルメスの血	0
+626.EN	bottle	hermes blood	0
+625.JP	-	鳥居	0
+625.EN	-	shrine gate	0
+624.JP	-	お嬢様の日記	0
+624.EN	-	girl's diary	0
+623.JP	-	妹の秘密の日記	0
+623.EN	-	cat sister's diary	0
+622.JP	-	小さなメダル	0
+622.EN	-	small medal	0
+621.JP	-	宝の地図	0
+621.EN	-	treasure map	0
+620.JP	-	媚薬	0
+620.EN	-	love potion	0
+619.JP	-	-	0
+619.EN	-	-	0
+618.JP	-	-	0
+618.EN	-	-	0
+617.JP	-	-	0
+617.EN	-	bait	0
+616.JP	-	徴税士の納税箱	0
+616.EN	-	tax master's tax box	0
+615.JP	-	請求書	0
+615.EN	-	bill	0
+614.JP	-	フラワーアーチ	0
+614.EN	-	flower arch	0
+613.JP	-	王様ベッド	0
+613.EN	-	king's bed	0
+612.JP	-	アットホームな窓	0
+612.EN	-	nice window	0
+611.JP	-	ハウスボード	0
+611.EN	-	house board	0
+610.JP	-	三角木	0
+610.EN	-	triangle plant	0
+609.JP	-	窓	0
+609.EN	-	window	0
+608.JP	-	格子窓	0
+608.EN	-	square window	0
+607.JP	-	巨大サボテン	0
+607.EN	-	giant cactus	0
+606.JP	-	バーベキューセット	0
+606.EN	-	barbecue set	0
+605.JP	-	パキラ	0
+605.EN	-	money tree	0
+604.JP	-	目に優しい植物	0
+604.EN	-	green plant	0
+603.JP	-	ボスチェア	0
+603.EN	-	president's chair	0
+602.JP	-	聖なる井戸	0
+602.EN	-	holy well	0
+601.JP	-	空き瓶	0
+601.EN	-	empty bottle	0
+600.JP	-	巨人の足枷	0
+600.EN	-	giant's shackle	0
+599.JP	-	クリスマスツリー	0
+599.EN	-	christmas tree	0
+598.JP	-	スノーマン(荷車)	0
+598.EN	-	snow man	0
+597.JP	-	直送クリスマスツリー(荷車)	0
+597.EN	-	christmas tree	0
+596.JP	-	ステンドグラス	0
+596.EN	-	stained glass window	0
+595.JP	-	扇形の柱	0
+595.EN	-	pillar	0
+594.JP	statue	聖なる十字架	0
+594.EN	statue	holy cross	0
+593.JP	-	雪をかぶったモダンな街灯	0
+593.EN	-	modern lamp	0
+592.JP	-	雪をかぶったタル	0
+592.EN	-	snow barrel	0
+591.JP	-	ミニ雪だるま	0
+591.EN	-	mini snow man	0
+590.JP	-	雪かかし	0
+590.EN	-	snow scarecrow	0
+589.JP	tree	モミの木	0
+589.EN	tree	fir	0
+588.JP	tree	葉の散った木	0
+588.EN	tree	naked	0
+587.JP	handful	雪	0
+587.EN	handful	snow	0
+586.JP	-	モダンな街灯	0
+586.EN	-	modern lamp	0
+585.JP	-	奇抜なランプ	0
+585.EN	-	fancy lamp	0
+584.JP	-	キャンドル	0
+584.EN	-	candle	0
+583.JP	-	松明	0
+583.EN	-	torch	0
+582.JP	spellbook	扉生成の魔法書	0
+582.EN	spellbook	make door	0
+581.JP	rod	扉生成の杖	0
+581.EN	rod	make door	0
+580.JP	-	普通の棚	0
+580.EN	-	modern rack	0
+579.JP	-	冷蔵庫	0
+579.EN	-	freezer	0
+578.JP	-	貯金箱	0
+578.EN	-	kitty bank	0
+577.JP	-	火炎瓶	0
+577.EN	-	molotov	0
+576.JP	-	ムービーディスク	0
+576.EN	-	playback disc	0
+575.JP	-	フン	0
+575.EN	-	shit	0
+574.JP	bottle	乳	0
+574.EN	bottle	milk	0
+573.JP	-	卵	0
+573.EN	-	egg	0
+572.JP	deed	牧場の権利書	0
+572.EN	deed	ranch	0
+571.JP	-	干し肉	0
+571.EN	-	jerky	0
+570.JP	rod	炎の壁の杖	0
+570.EN	rod	fire wall	0
+569.JP	spellbook	炎の壁の魔法書	0
+569.EN	spellbook	fire wall	0
+568.JP	-	耐冷ブランケット	0
+568.EN	-	coldproof blanket	0
+567.JP	-	耐火ブランケット	0
+567.EN	-	fireproof blanket	0
+566.JP	-	耐酸性コーティング液	0
+566.EN	-	acidproof liquid	0
+565.JP	rod	酸の滴る杖	0
+565.EN	rod	acid ground	0
+564.JP	spellbook	酸の海の魔法書	0
+564.EN	spellbook	acid ground	0
+563.JP	-	学習書	0
+563.EN	-	textbook	0
+562.JP	-	レジスター	0
+562.EN	-	register	0
+561.JP	-	店の金庫	0
+561.EN	-	shop strongbox	0
+560.JP	-	主の納入箱	0
+560.EN	-	master's delivery chest	0
+559.JP	potion	エーテル抗体のポーション	0
+559.EN	potion	cure corruption	0
+558.JP	-	オーロラリング	0
+558.EN	-	aurora ring	0
+557.JP	-	ヴィンデールクローク	0
+557.EN	-	vindale cloak	0
+556.JP	-	セブンリーグブーツ	0
+556.EN	-	seven league boots	0
+555.JP	-	シェルター	0
+555.EN	-	shelter	0
+554.JP	-	魔法の木の種	0
+554.EN	-	magical seed	0
+553.JP	-	宝石の種	0
+553.EN	-	gem seed	0
+552.JP	-	羽	0
+552.EN	-	feather	0
+551.JP	rod	癒しの手の杖	0
+551.EN	rod	healing hands	0
+550.JP	spellbook	癒しの手の魔法書	0
+550.EN	spellbook	healing hands	0
+549.JP	scroll	治癒の雨の巻物	0
+549.EN	scroll	healing rain	0
+548.JP	spellbook	治癒の雨の魔法書	0
+548.EN	spellbook	healing rain	0
+547.JP	-	給料箱	0
+547.EN	-	salary chest	0
+546.JP	spellbook	壁生成の魔法書	0
+546.EN	spellbook	wall creation	0
+545.JP	rod	壁生成の杖	0
+545.EN	rod	wall creation	0
+544.JP	-	ディスク	0
+544.EN	-	disc	0
+543.JP	deed	倉庫の権利書	0
+543.EN	deed	storage house	0
+542.JP	deed	畑の権利書	0
+542.EN	deed	farm	0
+541.JP	-	雪だるま	0
+541.EN	-	snow man	0
+540.JP	-	黒水晶	0
+540.EN	-	black crystal	0
+539.JP	statue	猫の像	0
+539.EN	statue	cat	0
+538.JP	painting	絵画《ひまわり》	0
+538.EN	painting	sunflower	0
+537.JP	painting	絵画《風景》	0
+537.EN	painting	landscape	0
+536.JP	painting	絵画《マダム》	0
+536.EN	painting	madam	0
+535.JP	-	巨大なテーブル	0
+535.EN	-	big table	0
+534.JP	-	巨大な観葉植物	0
+534.EN	-	giant foliage plant	0
+533.JP	-	かまど	0
+533.EN	-	stove	0
+532.JP	-	暖炉	0
+532.EN	-	fireplace	0
+531.JP	-	溶鉱炉	0
+531.EN	-	furnance	0
+530.JP	tree	トネリコの木	0
+530.EN	tree	ash	0
+529.JP	tree	ヤシの木	0
+529.EN	tree	palm	0
+528.JP	tree	ケヤキの木	0
+528.EN	tree	zelkova	0
+527.JP	-	枯れ木	0
+527.EN	-	dead tree	0
+526.JP	tree	果実の木	0
+526.EN	tree	fruits	0
+525.JP	tree	果実のない木	0
+525.EN	tree	fruitless	0
+524.JP	tree	スギの木	0
+524.EN	tree	cedar	0
+523.JP	tree	ブナの木	0
+523.EN	tree	beech	0
+522.JP	deed	店の権利書	0
+522.EN	deed	shop	0
+521.JP	deed	博物館の権利書	0
+521.EN	deed	museum	0
+520.JP	-	翼	0
+520.EN	-	wing	0
+519.JP	bottle	染料	0
+519.EN	bottle	dye	0
+518.JP	rod	錬金術の杖	0
+518.EN	rod	alchemy	0
+517.JP	rod	変化の杖	0
+517.EN	rod	change creature	0
+516.JP	bottle	水	0
+516.EN	bottle	water	0
+515.JP	scroll	充填の巻物	0
+515.EN	scroll	recharge	0
+514.JP	-	《レールガン》	0
+514.EN	-	<Rail Gun>	0
+513.JP	-	光子弾	0
+513.EN	-	energy cell	0
+512.JP	-	光子銃	0
+512.EN	-	laser gun	0
+511.JP	deed	遺産相続の権利書	0
+511.EN	deed	heirship	0
+510.JP	-	形見のカバン	0
+510.EN	-	heir trunk	0
+509.JP	scroll	*防具強化*の巻物	0
+509.EN	scroll	greater enchant armor	0
+508.JP	scroll	防具強化の巻物	0
+508.EN	scroll	enchant armor	0
+507.JP	scroll	*武器強化*の巻物	0
+507.EN	scroll	greater enchant weapon	0
+506.JP	scroll	武器強化の巻物	0
+506.EN	scroll	enchant weapon	0
+505.JP	-	妹の日記	0
+505.EN	-	little sister's diary	0
+504.JP	-	カード	0
+504.EN	-	card	0
+503.JP	-	はく製	0
+503.EN	-	figurine	0
+502.JP	scroll	*素材変化*の巻物	0
+502.EN	scroll	superior material	0
+501.JP	scroll	素材変化の巻物	0
+501.EN	scroll	change material	0
+500.JP	scroll	劣悪素材の巻物	0
+500.EN	scroll	inferior material	0
+499.JP	-	サイバースナック	0
+499.EN	-	cyber snack	0
+498.JP	-	フライドポテト	0
+498.EN	-	fried potato	0
+497.JP	-	ポップコーン	0
+497.EN	-	pop corn	0
+496.JP	-	散弾銃	0
+496.EN	-	shot gun	0
+495.JP	-	ブランクディスク	0
+495.EN	-	blank disc	0
+494.JP	-	チップ	0
+494.EN	-	chip	0
+493.JP	-	トラッシュカン	0
+493.EN	-	trash can	0
+492.JP	-	ストレージ	0
+492.EN	-	storage	0
+491.JP	-	サーバー	0
+491.EN	-	server	0
+490.JP	-	レンジ	0
+490.EN	-	microwave oven	0
+489.JP	-	カメラ	0
+489.EN	-	camera	0
+488.JP	-	トレーニングマシーン	0
+488.EN	-	training machine	0
+487.JP	-	コンピューター	0
+487.EN	-	computer	0
+486.JP	-	電子機械	0
+486.EN	-	machine	0
+485.JP	rod	蜘蛛の巣の杖	0
+485.EN	rod	web	0
+484.JP	spellbook	蜘蛛の巣の魔法書	0
+484.EN	spellbook	web	0
+483.JP	-	クロスボウの矢束	0
+483.EN	-	bolt	0
+482.JP	-	機械弓	0
+482.EN	-	crossbow	0
+481.JP	spellbook	支配の魔法書	0
+481.EN	spellbook	domination	0
+480.JP	rod	支配の杖	0
+480.EN	rod	domination	0
+479.JP	scroll	援軍の巻物	0
+479.EN	scroll	ally	0
+478.JP	-	聴診器	0
+478.EN	-	stethoscope	0
+477.JP	-	結婚指輪	0
+477.EN	-	engagement ring	0
+476.JP	-	指輪	0
+476.EN	-	ring	0
+475.JP	-	指当て	0
+475.EN	-	armored ring	0
+474.JP	-	合金指輪	0
+474.EN	-	composite ring	0
+473.JP	-	結婚首輪	0
+473.EN	-	engagement amulet	0
+472.JP	-	細工首輪	0
+472.EN	-	bejeweled amulet	0
+471.JP	-	お守り	0
+471.EN	-	charm	0
+470.JP	-	首当て	0
+470.EN	-	neck guard	0
+469.JP	-	護符	0
+469.EN	-	talisman	0
+468.JP	-	ペリドット	0
+468.EN	-	peridot	0
+467.JP	-	合金兜	0
+467.EN	-	composite helm	0
+466.JP	-	兜	0
+466.EN	-	helm	0
+465.JP	-	騎士兜	0
+465.EN	-	knight helm	0
+464.JP	-	重兜	0
+464.EN	-	heavy helm	0
+463.JP	-	羽帽子	0
+463.EN	-	feather hat	0
+462.JP	-	外套	0
+462.EN	-	cloak	0
+461.JP	-	防護外套	0
+461.EN	-	armored cloak	0
+460.JP	-	重層腰当	0
+460.EN	-	plate girdle	0
+459.JP	-	合成腰当	0
+459.EN	-	composite girdle	0
+458.JP	-	装甲靴	0
+458.EN	-	armored boots	0
+457.JP	-	厚靴	0
+457.EN	-	tight boots	0
+456.JP	-	靴	0
+456.EN	-	boots	0
+455.JP	-	履物	0
+455.EN	-	shoes	0
+454.JP	-	重層盾	0
+454.EN	-	tower shield	0
+453.JP	-	長盾	0
+453.EN	-	kite shield	0
+452.JP	-	合成盾	0
+452.EN	-	large shield	0
+451.JP	-	盾	0
+451.EN	-	shield	0
+450.JP	-	丸型盾	0
+450.EN	-	round shield	0
+449.JP	-	小盾	0
+449.EN	-	small shield	0
+448.JP	-	合成篭手	0
+448.EN	-	composite gauntlets	0
+447.JP	-	軽手袋	0
+447.EN	-	light gloves	0
+446.JP	-	重層篭手	0
+446.EN	-	plate gauntlets	0
+445.JP	-	手袋	0
+445.EN	-	gloves	0
+444.JP	-	防弾服	0
+444.EN	-	bulletproof jacket	0
+443.JP	-	胴衣	0
+443.EN	-	breast plate	0
+442.JP	-	防護服	0
+442.EN	-	coat	0
+441.JP	-	軽鎧	0
+441.EN	-	light mail	0
+440.JP	-	法王衣	0
+440.EN	-	pope robe	0
+439.JP	-	綴り鎧	0
+439.EN	-	chain mail	0
+438.JP	-	合成鎧	0
+438.EN	-	composite mail	0
+437.JP	-	輪鎧	0
+437.EN	-	ring mail	0
+436.JP	-	重層鎧	0
+436.EN	-	plate mail	0
+435.JP	-	厚鎧	0
+435.EN	-	banded mail	0
+434.JP	spellbook	自己変容の魔法書	0
+434.EN	spellbook	mutation	0
+433.JP	potion	変異治療のポーション	0
+433.EN	potion	cure mutation	0
+432.JP	potion	突然変異のポーション	0
+432.EN	potion	mutation	0
+431.JP	scroll	信仰の巻物	0
+431.EN	scroll	faith	0
+430.JP	scroll	成長の巻物	0
+430.EN	scroll	growth	0
+429.JP	potion	失耐性のポーション	0
+429.EN	potion	weaken resistance	0
+428.JP	-	寝袋	0
+428.EN	-	sleeping bag	0
+427.JP	-	ストマフィリア	0
+427.EN	-	stomafillia	0
+426.JP	-	アルローニア	0
+426.EN	-	alraunia	0
+425.JP	-	キュラリア	0
+425.EN	-	curaria	0
+424.JP	-	スペンスウィード	0
+424.EN	-	spenseweed	0
+423.JP	-	マレイロン	0
+423.EN	-	mareilon	0
+422.JP	-	モージア	0
+422.EN	-	morgia	0
+421.JP	-	アーティファクトの種	0
+421.EN	-	artifact seed	0
+420.JP	-	謎の種	0
+420.EN	-	unknown seed	0
+419.JP	-	ハーブの種	0
+419.EN	-	herb seed	0
+418.JP	-	果物の種	0
+418.EN	-	fruit seed	0
+417.JP	-	野菜の種	0
+417.EN	-	vegetable seed	0
+416.JP	-	ガシャポンの玉(レア)	0
+416.EN	-	rare treasure ball	0
+415.JP	-	ガシャポンの玉	0
+415.EN	-	treasure ball	0
+414.JP	-	青のガシャポン	0
+414.EN	-	blue treasure machine	0
+413.JP	-	赤のガシャポン	0
+413.EN	-	red treasure machine	0
+412.JP	rod	解呪の杖	0
+412.EN	rod	uncurse	0
+411.JP	scroll	物質感知の巻物	0
+411.EN	scroll	detect objects	0
+410.JP	spellbook	物質感知の魔法書	0
+410.EN	spellbook	detect objects	0
+409.JP	-	浮き輪(荷車)	0
+409.EN	-	inner tube	0
+408.JP	-	貴族の玩具(荷車)	0
+408.EN	-	noble toy	0
+407.JP	-	銘酒セット(荷車)	0
+407.EN	-	whisky	0
+406.JP	-	ツナ(荷車)	0
+406.EN	-	tuna fish	0
+405.JP	-	墓(荷車)	0
+405.EN	-	grave	0
+404.JP	-	マンボー(荷車)	0
+404.EN	-	manboo	0
+403.JP	-	棺桶(荷車)	0
+403.EN	-	coffin	0
+402.JP	-	ロープ(荷車)	0
+402.EN	-	rope	0
+401.JP	-	装飾ピアノ(荷車)	0
+401.EN	-	piano	0
+400.JP	-	匠のタル(荷車)	0
+400.EN	-	barrel	0
+399.JP	-	特産ぬいぐるみ(荷車)	0
+399.EN	-	rag doll	0
+398.JP	scroll	知恵の巻物	0
+398.EN	scroll	knowledge	0
+397.JP	spellbook	知者の加護の魔法書	0
+397.EN	spellbook	knowledge	0
+396.JP	spellbook	ナイトメアの魔法書	0
+396.EN	spellbook	nightmare	0
+395.JP	scroll	マテリアル生成の巻物	0
+395.EN	scroll	gain material	0
+394.JP	-	素材箱	0
+394.EN	-	material box	0
+393.JP	-	宝石加工ツール	0
+393.EN	-	gem cutter	0
+392.JP	bottle	硫酸	0
+392.EN	bottle	sulfuric	0
+391.JP	rod	魔力の杖	0
+391.EN	rod	mana	0
+390.JP	scroll	魔力の巻物	0
+390.EN	scroll	mana	0
+389.JP	scroll	全浄化の巻物	0
+389.EN	scroll	holy rain	0
+388.JP	scroll	清浄なる光の巻物	0
+388.EN	scroll	holy light	0
+387.JP	spellbook	全浄化の魔法書	0
+387.EN	spellbook	holy rain	0
+386.JP	spellbook	清浄なる光の魔法書	0
+386.EN	spellbook	holy light	0
+385.JP	rod	浄化の杖	0
+385.EN	rod	holy light	0
+384.JP	scroll	ホーリーヴェイルの巻物	0
+384.EN	scroll	holy veil	0
+383.JP	spellbook	ホーリーヴェイルの魔法書	0
+383.EN	spellbook	holy veil	0
+382.JP	potion	脆弱のポーション	0
+382.EN	potion	weakness	0
+381.JP	spellbook	元素の傷跡の魔法書	0
+381.EN	spellbook	elemental scar	0
+380.JP	spellbook	脆弱の霧の魔法書	0
+380.EN	spellbook	weakness	0
+379.JP	potion	英雄気分のポーション	0
+379.EN	potion	hero	0
+378.JP	spellbook	英雄の魔法書	0
+378.EN	spellbook	hero	0
+377.JP	rod	加速の杖	0
+377.EN	rod	speed	0
+376.JP	potion	鈍足のポーション	0
+376.EN	potion	slow	0
+375.JP	potion	加速のポーション	0
+375.EN	potion	speed	0
+374.JP	spellbook	鈍足の魔法書	0
+374.EN	spellbook	slow	0
+373.JP	spellbook	加速の魔法書	0
+373.EN	spellbook	speed	0
+372.JP	potion	属性耐性のポーション	0
+372.EN	potion	resistance	0
+371.JP	spellbook	属性保護の魔法書	0
+371.EN	spellbook	resistance	0
+370.JP	potion	トロールの血	0
+370.EN	potion	troll blood	0
+369.JP	spellbook	リジェネレーションの魔法書	0
+369.EN	spellbook	regeneration	0
+368.JP	potion	沈黙のポーション	0
+368.EN	potion	silence	0
+367.JP	spellbook	沈黙の霧の魔法書	0
+367.EN	spellbook	silence	0
+366.JP	rod	沈黙の杖	0
+366.EN	rod	silence	0
+365.JP	spellbook	聖なる盾の魔法書	0
+365.EN	spellbook	holy shield	0
+364.JP	potion	防衛者のポーション	0
+364.EN	potion	defender	0
+363.JP	scroll	*解呪*の巻物	0
+363.EN	scroll	vanish curse	0
+362.JP	scroll	*鑑定*の巻物	0
+362.EN	scroll	greater identify	0
+361.JP	-	商人のカバン	0
+361.EN	-	shopkeeper's trunk	0
+360.JP	-	《パルミア・プライド》	0
+360.EN	-	<Palmia Pride>	0
+359.JP	-	《ランキス》	0
+359.EN	-	<Rankis>	0
+358.JP	-	《狂気の杖》	0
+358.EN	-	<Staff of Insanity>	0
+357.JP	-	《鋼鉄竜の指輪》	0
+357.EN	-	<Ring of Steel Dragon>	0
+356.JP	-	《ブラッドムーン》	0
+356.EN	-	<Blood Moon>	0
+355.JP	-	《火炎竜ヴェスダの篭手》	0
+355.EN	-	<Gloves of Vesda>	0
+354.JP	-	サンドボーラー	0
+354.EN	-	sandborer	0
+353.JP	-	カトラスフィッシュ	0
+353.EN	-	cutlassfish	0
+352.JP	-	ツナ	0
+352.EN	-	tuna	0
+351.JP	-	グローブフィッシュ	0
+351.EN	-	globefish	0
+350.JP	-	サーモン	0
+350.EN	-	salmon	0
+349.JP	-	シーブリーム	0
+349.EN	-	seabream	0
+348.JP	-	マンボー	0
+348.EN	-	manboo	0
+347.JP	-	フラットフィッシュ	0
+347.EN	-	flatfish	0
+346.JP	-	サーディン	0
+346.EN	-	sardine	0
+345.JP	-	ムーンフィッシュ	0
+345.EN	-	moonfish	0
+344.JP	-	権利書	0
+344.EN	-	deed	0
+343.JP	-	懐かしいルーン	0
+343.EN	-	rune	0
+342.JP	-	釣竿	0
+342.EN	-	fishing pole	0
+341.JP	-	骨片	0
+341.EN	-	bone	0
+340.JP	-	心臓	0
+340.EN	-	heart	0
+339.JP	-	瞳	0
+339.EN	-	eye	0
+338.JP	-	体液	0
+338.EN	-	blood	0
+337.JP	-	皮	0
+337.EN	-	skin	0
+336.JP	-	金の像	0
+336.EN	-	golden statue	0
+335.JP	-	金の飾台	0
+335.EN	-	golden pedestal	0
+334.JP	-	王座	0
+334.EN	-	throne	0
+333.JP	-	旅糧(荷車)	0
+333.EN	-	traveler's food	0
+332.JP	-	テーブル	0
+332.EN	-	table	0
+331.JP	-	ドレス	0
+331.EN	-	dress	0
+330.JP	-	切り株	0
+330.EN	-	stump	0
+329.JP	statue	十字架	0
+329.EN	statue	cross	0
+328.JP	-	アップライトピアノ	0
+328.EN	-	upright piano	0
+327.JP	-	長椅子	0
+327.EN	-	wide chair	0
+326.JP	-	シンプルな棚	0
+326.EN	-	simple rack	0
+325.JP	-	ふかふかのベッド	0
+325.EN	-	comfortable bed	0
+324.JP	-	神聖な祭壇	0
+324.EN	-	sacred altar	0
+323.JP	-	大きい食器棚	0
+323.EN	-	big cupboard	0
+322.JP	-	シンプルな鏡台	0
+322.EN	-	simple dresser	0
+321.JP	-	小奇麗な棚	0
+321.EN	-	neat rack	0
+320.JP	-	でこぼこした机	0
+320.EN	-	cheap table	0
+319.JP	-	簡易ベッド	0
+319.EN	-	cheap bed	0
+318.JP	-	古い本棚	0
+318.EN	-	old bookshelf	0
+317.JP	-	古い棚	0
+317.EN	-	old shelf	0
+316.JP	-	特大の観葉植物	0
+316.EN	-	big foliage plant	0
+315.JP	-	ダーツ	0
+315.EN	-	darts board	0
+314.JP	-	スロットマシーン	0
+314.EN	-	slot machine	0
+313.JP	-	カジノテーブル	0
+313.EN	-	casino table	0
+312.JP	-	パチスロマシーン	0
+312.EN	-	pachisuro machine	0
+311.JP	-	風呂	0
+311.EN	-	bathtub	0
+310.JP	-	清潔なベッド	0
+310.EN	-	clean bed	0
+309.JP	-	鏡台	0
+309.EN	-	dresser	0
+308.JP	-	簡易棚	0
+308.EN	-	cheap rack	0
+307.JP	-	落ち着くベッド	0
+307.EN	-	soft bed	0
+306.JP	-	フードプロセッサー	0
+306.EN	-	food processor	0
+305.JP	-	棺桶	0
+305.EN	-	coffin	0
+304.JP	-	粗末なベッド	0
+304.EN	-	plain bed	0
+303.JP	-	巨大なベッド	0
+303.EN	-	giant bed	0
+302.JP	chest	衣類箪笥	0
+302.EN	chest	clothes	0
+301.JP	-	大きな花束	0
+301.EN	-	large bouquet	0
+300.JP	-	高収納バーテーブル	0
+300.EN	-	neat bar table	0
+299.JP	-	高級ミラー	0
+299.EN	-	high grade dresser	0
+298.JP	-	高価な花瓶	0
+298.EN	-	vase	0
+297.JP	-	高級ベッド	0
+297.EN	-	luxury bed	0
+296.JP	-	お酒のキャビネット	0
+296.EN	-	cabinet	0
+295.JP	-	ぼろい机	0
+295.EN	-	ragged table	0
+294.JP	-	タオル	0
+294.EN	-	towel	0
+293.JP	rack	装飾品の棚	0
+293.EN	rack	accessories	0
+292.JP	rack	日用品の棚	0
+292.EN	rack	good	0
+291.JP	-	整備された武具	0
+291.EN	-	well kept armor	0
+290.JP	rod	願いの杖	0
+290.EN	rod	wishing	0
+289.JP	spellbook	願いの魔法書	0
+289.EN	spellbook	wishing	0
+288.JP	scroll	呪縛の巻物	0
+288.EN	scroll	curse	0
+287.JP	potion	潜在能力のポーション	0
+287.EN	potion	potential	0
+286.JP	potion	精神復活のポーション	0
+286.EN	potion	restore spirit	0
+285.JP	potion	肉体復活のポーション	0
+285.EN	potion	restore body	0
+284.JP	-	財布(落し物)	0
+284.EN	-	wallet	0
+283.JP	-	カバン(落し物)	0
+283.EN	-	suitcase	0
+282.JP	-	意味深な地図	0
+282.EN	-	mysterious map	0
+281.JP	-	浮き輪	0
+281.EN	-	inner tube	0
+280.JP	-	落ち着くテーブル	0
+280.EN	-	comfortable table	0
+279.JP	-	水桶	0
+279.EN	-	water tub	0
+278.JP	-	街灯	0
+278.EN	-	street lamp	0
+277.JP	-	折れた柱	0
+277.EN	-	broken pillar	0
+276.JP	-	長い柱	0
+276.EN	-	long pillar	0
+275.JP	-	ほうき	0
+275.EN	-	broom	0
+274.JP	-	かかし	0
+274.EN	-	scarecrow	0
+273.JP	-	薪	0
+273.EN	-	fire wood	0
+272.JP	spellbook	混沌の渦の魔法書	0
+272.EN	spellbook	chaos ball	0
+271.JP	spellbook	轟音の波動の魔法書	0
+271.EN	spellbook	sound ball	0
+270.JP	spellbook	灼熱の嵐の魔法書	0
+270.EN	spellbook	fire ball	0
+269.JP	spellbook	氷結の波動の魔法書	0
+269.EN	spellbook	ice ball	0
+268.JP	spellbook	マインドボルトの魔法書	0
+268.EN	spellbook	illusion beam	0
+267.JP	spellbook	ダークネスボルトの魔法書	0
+267.EN	spellbook	darkness beam	0
+266.JP	-	忍刀	0
+266.EN	-	wakizashi	0
+265.JP	spellbook	麻痺の矢の魔法書	0
+265.EN	spellbook	nerve eye	0
+264.JP	spellbook	混沌の瞳の魔法書	0
+264.EN	spellbook	chaos eye	0
+263.JP	spellbook	地獄の吐息の魔法書	0
+263.EN	spellbook	nether eye	0
+262.JP	-	毒薬	0
+262.EN	-	poison	0
+261.JP	-	はじけ魚	0
+261.EN	-	bomb fish	0
+260.JP	sack	小麦粉	0
+260.EN	sack	flour	0
+259.JP	-	生麺	0
+259.EN	-	raw noodle	0
+258.JP	-	スティックパン	0
+258.EN	-	stick bread	0
+257.JP	spellbook	魔法の矢の魔法書	0
+257.EN	spellbook	magic arrow	0
+256.JP	-	携帯調理道具	0
+256.EN	-	portable cooking tool	0
+255.JP	-	焚き火	0
+255.EN	-	campfire	0
+254.JP	-	ホーン	0
+254.EN	-	horn	0
+253.JP	bottle	ビア	0
+253.EN	bottle	beer	0
+252.JP	spellbook	ジュアの癒しの魔法書	0
+252.EN	spellbook	cure <Jure>	0
+251.JP	spellbook	エリスの癒しの魔法書	0
+251.EN	spellbook	cure <Eris>	0
+250.JP	spellbook	致命傷治癒の魔法書	0
+250.EN	spellbook	cure critical wound	0
+249.JP	spellbook	軽傷治癒の魔法書	0
+249.EN	spellbook	cure minor wound	0
+248.JP	spellbook	帰還の魔法書	0
+248.EN	spellbook	return	0
+247.JP	spellbook	神託の魔法書	0
+247.EN	spellbook	oracle	0
+246.JP	spellbook	魔法の地図の魔法書	0
+246.EN	spellbook	magic mapping	0
+245.JP	scroll	ショートテレポートの巻物	0
+245.EN	scroll	minor teleportation	0
+244.JP	scroll	不思議な巻物	0
+244.EN	scroll	wonder	0
+243.JP	scroll	能力獲得の巻物	0
+243.EN	scroll	gain attribute	0
+242.JP	scroll	魔法の地図	0
+242.EN	scroll	magical map	0
+241.JP	-	金庫	0
+241.EN	-	safe	0
+240.JP	-	宝箱	0
+240.EN	-	chest	0
+239.JP	-	宝石で飾られた宝箱	0
+239.EN	-	bejeweled chest	0
+238.JP	figurine	フィギア『伝説の剣』	0
+238.EN	figurine	sword	0
+237.JP	figurine	フィギア『狂戦士』	0
+237.EN	figurine	warrior	0
+236.JP	scroll	帰還の巻物	0
+236.EN	scroll	return	0
+235.JP	-	鉾槍	0
+235.EN	-	halberd	0
+234.JP	-	大斧	0
+234.EN	-	bardish	0
+233.JP	-	兵糧	0
+233.EN	-	ration	0
+232.JP	-	大剣	0
+232.EN	-	claymore	0
+231.JP	-	機関銃	0
+231.EN	-	machine gun	0
+230.JP	-	短弓	0
+230.EN	-	short bow	0
+229.JP	-	長棒	0
+229.EN	-	long staff	0
+228.JP	-	三叉槍	0
+228.EN	-	trident	0
+227.JP	-	大槌	0
+227.EN	-	hammer	0
+226.JP	-	戦斧	0
+226.EN	-	battle axe	0
+225.JP	-	海賊刀	0
+225.EN	-	scimitar	0
+224.JP	-	刀	0
+224.EN	-	katana	0
+223.JP	-	鍋	0
+223.EN	-	pot	0
+222.JP	-	動物の骨	0
+222.EN	-	animal bone	0
+221.JP	-	藁	0
+221.EN	-	straw	0
+220.JP	-	魚の死骸	0
+220.EN	-	dead fish	0
+219.JP	-	頑丈なロープ	0
+219.EN	-	tight rope	0
+218.JP	-	鉢	0
+218.EN	-	bowl	0
+217.JP	-	空っぽの鉢	0
+217.EN	-	empty bowl	0
+216.JP	-	バスケット	0
+216.EN	-	basket	0
+215.JP	lot	たくさんの空のビン	0
+215.EN	lot	empty bottles	0
+214.JP	-	鉱石の欠片	0
+214.EN	-	ore piece	0
+213.JP	-	長槍	0
+213.EN	-	spear	0
+212.JP	-	杖	0
+212.EN	-	staff	0
+211.JP	-	鎌	0
+211.EN	-	sickle	0
+210.JP	-	小石	0
+210.EN	-	stone	0
+209.JP	scroll	解呪の巻物	0
+209.EN	scroll	uncurse	0
+208.JP	-	途方も価値のない錆びた偽物の金塊	0
+208.EN	-	worthless fake gold bar	0
+207.JP	-	《異形の森の弓》	0
+207.EN	-	<Bow of Vinderre>	0
+206.JP	-	《エーテルダガー》	0
+206.EN	-	<Ether Dagger>	0
+205.JP	bottle	ウィスキー	0
+205.EN	bottle	whisky	0
+204.JP	-	死体	0
+204.EN	-	corpse	0
+203.JP	rod	癒しの杖	0
+203.EN	rod	cure	0
+202.JP	rod	千里眼の杖	0
+202.EN	rod	magic mapping	0
+201.JP	-	レッチョ	0
+201.EN	-	leccho	0
+200.JP	-	ウリ	0
+200.EN	-	melon	0
+199.JP	-	カボチャ	0
+199.EN	-	squash	0
+198.JP	-	グリーンピース	0
+198.EN	-	green pea	0
+197.JP	-	レモン	0
+197.EN	-	lemon	0
+196.JP	-	夏ミカン	0
+196.EN	-	tangerine	0
+195.JP	-	クッチェ	0
+195.EN	-	qucche	0
+194.JP	-	万色フルーツ	0
+194.EN	-	rainbow fruit	0
+193.JP	-	薬草	0
+193.EN	-	healthy leaf	0
+192.JP	-	苺	0
+192.EN	-	strawberry	0
+191.JP	-	アピの実	0
+191.EN	-	api nut	0
+190.JP	-	イーモ	0
+190.EN	-	imo	0
+189.JP	-	食器の山	0
+189.EN	-	dish	0
+188.JP	-	レタス	0
+188.EN	-	lettuce	0
+187.JP	-	さつまいも	0
+187.EN	-	sweet potato	0
+186.JP	-	大根	0
+186.EN	-	radish	0
+185.JP	-	キャロット	0
+185.EN	-	carrot	0
+184.JP	-	グアバ	0
+184.EN	-	guava	0
+183.JP	-	さくらんぼ	0
+183.EN	-	cherry	0
+182.JP	-	キウイ	0
+182.EN	-	kiwi	0
+181.JP	-	ブドウ	0
+181.EN	-	grape	0
+180.JP	-	リンゴ	0
+180.EN	-	apple	0
+179.JP	-	山菜	0
+179.EN	-	edible wild plant	0
+178.JP	-	アロエ	0
+178.EN	-	aloe	0
+177.JP	-	クワパナ	0
+177.EN	-	quwapana	0
+176.JP	rod	鈍足の杖	0
+176.EN	rod	slow	0
+175.JP	rod	稲妻の軌跡の杖	0
+175.EN	rod	lightning bolt	0
+174.JP	-	二段ベッド	0
+174.EN	-	bunk bed	0
+173.JP	-	噴水	0
+173.EN	-	fountain	0
+172.JP	-	儀式用の祭壇	0
+172.EN	-	ceremony altar	0
+171.JP	-	祭壇	0
+171.EN	-	altar	0
+170.JP	-	古めかしい墓	0
+170.EN	-	old grave	0
+169.JP	-	古墳	0
+169.EN	-	ancient tomb	0
+168.JP	-	荘厳な墓	0
+168.EN	-	solemn tomb	0
+167.JP	-	新品の墓	0
+167.EN	-	brand new grave	0
+166.JP	grave	花で飾られた墓	0
+166.EN	grave	ornamented with flowers	0
+165.JP	-	崩れた墓	0
+165.EN	-	crumbled grave	0
+164.JP	-	風化した墓	0
+164.EN	-	collapsed grave	0
+163.JP	-	絹の生地	0
+163.EN	-	silk cloth	0
+162.JP	-	散らばった衣類	0
+162.EN	-	messy cloth	0
+161.JP	-	工具	0
+161.EN	-	carpenter's tool	0
+160.JP	-	裁縫セット	0
+160.EN	-	sewing kit	0
+159.JP	-	単なる棚	0
+159.EN	-	simple shelf	0
+158.JP	-	絢爛な燭台	0
+158.EN	-	gorgeous candlestick	0
+157.JP	-	上品なテーブル	0
+157.EN	-	elegant table	0
+156.JP	-	狭い食卓	0
+156.EN	-	narrow dining table	0
+155.JP	-	コンロ付き調理台	0
+155.EN	-	kitchen oven	0
+154.JP	-	流し台	0
+154.EN	-	sink	0
+153.JP	-	調理台	0
+153.EN	-	kitchen	0
+152.JP	lot	飲みきれないほどの酒	0
+152.EN	lot	alcohols	0
+151.JP	-	名工本棚	0
+151.EN	-	craft book shelf	0
+150.JP	-	名工箪笥	0
+150.EN	-	craft rack	0
+149.JP	lot	本の山	0
+149.EN	lot	books	0
+148.JP	-	散らかった本	0
+148.EN	-	disorderly books	0
+147.JP	-	鎧の像	0
+147.EN	-	armor statue	0
+146.JP	-	飾られた鎧	0
+146.EN	-	decorated armor	0
+145.JP	-	飾られた服	0
+145.EN	-	decorated clothing	0
+144.JP	bundle	武器の束	0
+144.EN	bundle	weapons	0
+143.JP	bundle	たくさんの弓	0
+143.EN	bundle	bows	0
+142.JP	-	調理機	0
+142.EN	-	food maker	0
+141.JP	-	地図	0
+141.EN	-	map	0
+140.JP	-	絵描き道具	0
+140.EN	-	painting tools	0
+139.JP	-	花で飾られた柱	0
+139.EN	-	flower adorned pillar	0
+138.JP	-	植物で飾られた柱	0
+138.EN	-	plant adorned pillar	0
+137.JP	-	カーネーションの花	0
+137.EN	-	carnation	0
+136.JP	-	猫じゃらし	0
+136.EN	-	foxtail grass	0
+135.JP	-	アネモネの花	0
+135.EN	-	anemone	0
+134.JP	-	ネリネの花	0
+134.EN	-	nerine	0
+133.JP	-	ガザニアの花	0
+133.EN	-	gazania	0
+132.JP	-	サルビアの花	0
+132.EN	-	sage	0
+131.JP	-	大きい観葉植物	0
+131.EN	-	large decorative plant	0
+130.JP	-	木香薔薇	0
+130.EN	-	banks' rose	0
+129.JP	-	小さい観葉植物	0
+129.EN	-	small decorative plant	0
+128.JP	-	魔法陣	0
+128.EN	-	magic circle	0
+127.JP	-	錬金術の道具	0
+127.EN	-	alchemy tools	0
+126.JP	-	ビーカー	0
+126.EN	-	beaker	0
+125.JP	rod	生命の杖	0
+125.EN	rod	life	0
+124.JP	-	パンの陳列棚	0
+124.EN	-	bread display	0
+123.JP	rod	炎の衝撃の杖	0
+123.EN	rod	fire bolt	0
+122.JP	rod	氷の視線の杖	0
+122.EN	rod	ice bolt	0
+121.JP	rod	サモンモンスターの杖	0
+121.EN	rod	summon monsters	0
+120.JP	rod	マジックミサイルの杖	0
+120.EN	rod	magic missile	0
+119.JP	rod	軽傷治療の杖	0
+119.EN	rod	cure minor wound	0
+118.JP	spellbook	モンスター召喚の魔法書	0
+118.EN	spellbook	summon monsters	0
+117.JP	-	空のバスケット	0
+117.EN	-	empty basket	0
+116.JP	spellbook	ショートテレポートの魔法書	0
+116.EN	spellbook	minor teleportation	0
+115.JP	-	掲示板	0
+115.EN	-	notice board	0
+114.JP	-	道標	0
+114.EN	-	signpost	0
+113.JP	-	標識	0
+113.EN	-	sign	0
+112.JP	-	オーブン	0
+112.EN	-	oven	0
+111.JP	-	溶解炉	0
+111.EN	-	smelter	0
+110.JP	variety	いろんな洋服	0
+110.EN	variety	clothes	0
+109.JP	-	井戸	0
+109.EN	-	well	0
+108.JP	variety	いろんな雑貨	0
+108.EN	variety	goods	0
+107.JP	variety	いろんな道具	0
+107.EN	variety	tools	0
+106.JP	-	収納棚	0
+106.EN	-	storage rack	0
+105.JP	-	本たてつきの棚	0
+105.EN	-	tidy bookshelf	0
+104.JP	-	物置	0
+104.EN	-	shed	0
+103.JP	-	食器棚	0
+103.EN	-	cupboard	0
+102.JP	-	安物の椅子	0
+102.EN	-	cheap chair	0
+101.JP	-	四角い椅子	0
+101.EN	-	square chair	0
+100.JP	-	ポーションの棚	0
+100.EN	-	potion rack	0
+99.JP	-	勉強机	0
+99.EN	-	writing desk	0
+98.JP	-	開いているつぼ	0
+98.EN	-	open vase	0
+97.JP	-	密封されたつぼ	0
+97.EN	-	sealed vase	0
+96.JP	-	金床	0
+96.EN	-	anvil	0
+95.JP	-	飾り物の鎧	0
+95.EN	-	ornamental armor	0
+94.JP	-	ランタン	0
+94.EN	-	lantern	0
+93.JP	-	つるはし	0
+93.EN	-	pickaxe	0
+92.JP	-	お洒落な椅子	0
+92.EN	-	stylish chair	0
+91.JP	-	タル	0
+91.EN	-	barrel	0
+90.JP	-	バーテーブルβ	0
+90.EN	-	bar table beta	0
+89.JP	-	バーテーブルα	0
+89.EN	-	bar table alpha	0
+88.JP	-	グランドピアノ	0
+88.EN	-	grand piano	0
+87.JP	-	色とりどりの装飾品	0
+87.EN	-	various accessories	0
+86.JP	-	たくさんの雑貨	0
+86.EN	-	goods	0
+85.JP	-	様々な鎧	0
+85.EN	-	armor	0
+84.JP	-	ダイニングテーブル	0
+84.EN	-	dining table	0
+83.JP	-	モダンテーブル	0
+83.EN	-	modern table	0
+82.JP	-	玩具	0
+82.EN	-	toy	0
+81.JP	-	ぬいぐるみ	0
+81.EN	-	plush doll	0
+80.JP	-	安物ベッド	0
+80.EN	-	cheap bed	0
+79.JP	-	高級箪笥	0
+79.EN	-	luxury drawer	0
+78.JP	-	普通の本棚	0
+78.EN	-	bookshelf	0
+77.JP	-	丸椅子	0
+77.EN	-	round chair	0
+76.JP	potion	聖なる癒し手ジュアのポーション	0
+76.EN	potion	sacred healer <Jure>	0
+75.JP	potion	白き癒し手エリスのポーション	0
+75.EN	potion	white healer <Eris>	0
+74.JP	potion	癒し手オディナのポーション	0
+74.EN	potion	healer <Odina>	0
+73.JP	-	《ラグナロク》	0
+73.EN	-	<Ragnarok>	0
+72.JP	potion	癒し手のポーション	0
+72.EN	potion	healer	0
+71.JP	potion	体力回復のポーション	0
+71.EN	potion	vitality	0
+70.JP	potion	致命傷治癒のポーション	0
+70.EN	potion	cure critical wound	0
+69.JP	potion	重傷治癒のポーション	0
+69.EN	potion	cure major wound	0
+68.JP	potion	軽傷治癒のポーション	0
+68.EN	potion	cure minor wound	0
+67.JP	-	装飾首輪	0
+67.EN	-	decorative amulet	0
+66.JP	-	腰当	0
+66.EN	-	girdle	0
+65.JP	-	軽外套	0
+65.EN	-	light cloak	0
+64.JP	-	《モーンブレイド》	0
+64.EN	-	<Mournblade>	0
+63.JP	-	《虚無の大鎌》	0
+63.EN	-	<Scythe of the Void>	0
+62.JP	-	弾丸	0
+62.EN	-	bullet	0
+61.JP	-	矢束	0
+61.EN	-	arrow	0
+60.JP	-	拳銃	0
+60.EN	-	pistol	0
+59.JP	-	騎士盾	0
+59.EN	-	knight shield	0
+58.JP	-	長弓	0
+58.EN	-	long bow	0
+57.JP	-	《斬鉄剣》	0
+57.EN	-	<Zantetsuken>	0
+56.JP	-	《ディアボロス》	0
+56.EN	-	<Diablos>	0
+55.JP	-	プラチナ硬貨	0
+55.EN	-	platinum coin	0
+54.JP	-	金貨	0
+54.EN	-	gold piece	0
+53.JP	-	石碑	0
+53.EN	-	tombstone	0
+52.JP	-	骸	0
+52.EN	-	skeleton	0
+51.JP	-	骨	0
+51.EN	-	bone fragment	0
+50.JP	-	折れた刃	0
+50.EN	-	broken sword	0
+49.JP	-	旗	0
+49.EN	-	flag	0
+48.JP	-	かがり台	0
+48.EN	-	brazier stand	0
+47.JP	-	洗物	0
+47.EN	-	washings	0
+46.JP	-	割れたつぼ	0
+46.EN	-	broken vase	0
+45.JP	-	クズ	0
+45.EN	-	garbage	0
+44.JP	-	クズ石	0
+44.EN	-	junk stone	0
+43.JP	-	木片	0
+43.EN	-	wood chips	0
+42.JP	-	ダイヤモンドの原石	0
+42.EN	-	raw diamond ore	0
+41.JP	-	エメラルドの原石	0
+41.EN	-	raw emerald ore	0
+40.JP	-	ミカ	0
+40.EN	-	mica ore	0
+39.JP	-	ルビナスの原石	0
+39.EN	-	raw rubynus ore	0
+38.JP	-	金塊	0
+38.EN	-	gold bar	0
+37.JP	-	太陽の結晶	0
+37.EN	-	sun crystal	0
+36.JP	-	魔力の結晶	0
+36.EN	-	mana crystal	0
+35.JP	-	大地の結晶	0
+35.EN	-	earth crystal	0
+34.JP	spellbook	ライトニングボルトの魔法書	0
+34.EN	spellbook	lightning bolt	0
+33.JP	spellbook	ファイアボルトの魔法書	0
+33.EN	spellbook	fire bolt	0
+32.JP	spellbook	アイスボルトの魔法書	0
+32.EN	spellbook	ice bolt	0
+31.JP	bottle	クリムエール	0
+31.EN	bottle	crim ale	0
+30.JP	-	睡眠薬	0
+30.EN	-	sleeping drug	0
+29.JP	potion	麻痺のポーション	0
+29.EN	potion	paralysis	0
+28.JP	potion	混乱のポーション	0
+28.EN	potion	confusion	0
+27.JP	potion	盲目のポーション	0
+27.EN	potion	blindness	0
+26.JP	bottle	汚水	0
+26.EN	bottle	dirty water	0
+25.JP	-	バグの本	0
+25.EN	-	bugged book	0
+24.JP	-	本	0
+24.EN	-	book	0
+23.JP	-	本	0
+23.EN	-	book	0
+22.JP	spellbook	解呪の魔法書	0
+22.EN	spellbook	uncurse	0
+21.JP	spellbook	鑑定の魔法書	0
+21.EN	spellbook	identify	0
+20.JP	spellbook	テレポートの魔法書	0
+20.EN	spellbook	teleportation	0
+19.JP	rod	テレポートの杖	0
+19.EN	rod	teleportation	0
+18.JP	rod	鑑定の杖	0
+18.EN	rod	identify	0
+17.JP	scroll	インコグニートの巻物	0
+17.EN	scroll	incognito	0
+16.JP	scroll	テレポートの巻物	0
+16.EN	scroll	teleportation	0
+15.JP	scroll	神託の巻物	0
+15.EN	scroll	oracle	0
+14.JP	scroll	鑑定の巻物	0
+14.EN	scroll	identify	0
+13.JP	-	装飾の指輪	0
+13.EN	-	decorative ring	0
+12.JP	-	合成靴	0
+12.EN	-	composite boots	0
+11.JP	-	重靴	0
+11.EN	-	heavy boots	0
+10.JP	-	厚篭手	0
+10.EN	-	thick gauntlets	0
+9.JP	-	細工篭手	0
+9.EN	-	decorated gloves	0
+8.JP	-	法衣	0
+8.EN	-	robe	0
+7.JP	-	鎧	0
+7.EN	-	breastplate	0
+6.JP	-	フェアリーハット	0
+6.EN	-	fairy hat	0
+5.JP	-	魔法帽	0
+5.EN	-	magic hat	0
+4.JP	-	棍棒	0
+4.EN	-	club	0
+3.JP	-	手斧	0
+3.EN	-	hand axe	0
+2.JP	-	短剣	0
+2.EN	-	dagger	0
+1.JP	-	長剣	0
+1.EN	-	long sword	0
+0.JP	-	黄金	0
+0.EN	-	gold bar	0

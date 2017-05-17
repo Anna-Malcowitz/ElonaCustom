@@ -1,0 +1,84 @@
+/*******************************************************************************
+The following sections of code are to implement item highlighting and filtering
+based on a user-defined list (ItemList.txt).	
+********************************************************************************/
+	
+/**********  Addition 1: Add to variable declarations **************************/
+// (Mandatory) - Defines the variable to store user highlight preferences.
+
+// Array is larger than current item list (v1.67) for future-proofing.
+dim ItemHighlight, 1500
+
+/**********  Addition 2: Add anywhere ******************************************/
+// (Mandatory) - Reads user preferences into ItemHighlight variable.
+
+/*
+    Uses data from the ItemList.txt file to store a set of preferences in order
+    to highlight user-specified items. Error-Checking is minimal; careless
+    modification of ItemList.txt may cause crashing.
+*/
+*Load_Item_Highlights  
+    //Verify that the ItemList file exists, displaying an error message and returning if not.
+    //If no file is found, the default value is 0 and no items will be highlighted. Will not cause crashing.
+    exist exedir + "ItemList.txt"
+    if( strsize == (-1)) {
+        dialog "The Item List file does not exist. Preferences will not be loaded."
+        return
+    } else{
+        //Clear the variables to be used and prepare the buffer.
+        buf = ""
+        ReturnString = ""
+        notesel buf
+        noteload exedir + "ItemList.txt"
+        //Loop through the file, reading line by line.
+        repeat noteinfo(0)
+            noteget FileLoadString_1, cnt
+            //Look only at lines that match the game's language settings.
+            if( instr( FileLoadString_1, 0, lang(".JP", ".EN")) != (-1)){
+                //Tempvar_1 stores the ID found in the line
+                TempVar_1 = strmid(FileLoadString_1, 0, instr(FileLoadString_1, 0, "."))
+                LoopCount = 0
+                //Loop to the last tab in the line, and read that value into ItemHighlight.
+                while LoopCount < 3
+                    StringOffset = instr(FileLoadString_1, 0, "\t")
+                    FileLoadString_1 = strmid(FileLoadString_1, StringOffset + 1, strlen(FileLoadString_1) - StringOffset)
+   
+                    if(LoopCount == 2){
+                        ItemHighlight(int(TempVar_1)) = int(FileLoadString_1)
+                    }
+                    LoopCount++
+                wend
+            }
+        loop
+        noteunsel
+    }
+    noteunsel
+return
+
+/********** Addition 3: Insert At Startup Code *************************/
+// (Mandatory) - Passes execution to the subroutine defined above.
+
+gosub *Load_Item_Highlights
+
+/********** Addition 4: Add in the C function itemname *************************/
+// (Optional) - Adds five asterisks to item names. Can change # as required.
+
+// Add before the line "return s@m63" in function C function itemname
+if(ItemHighlight(inv(3, itemname_arg1)) == 1){
+    s@m63 ="*****" + s@m63
+}
+
+/********** Addition 5: Add in the C function cs_list *************************/
+// (Optional) - Adds coloring to item names. Color is in R, G, B format and can
+// 				be changed as required.
+
+/* Add after the following code snippet:
+
+if ( inv(17, cs_list_arg7) == (-2) ) {
+	color 100, 10, 100
+}
+
+*/
+if( ItemHighlight(inv(3, cs_list_arg7)) == 1  ) {
+	color 0, 0, 204
+}
