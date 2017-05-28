@@ -1,0 +1,33 @@
+/*******************************************************************************
+The following sections of code adds a "Yes/No" dialogue box when attempting to pick up items
+that do not belong to you outside of quests and moongates, providing a shortcut to stealing.
+********************************************************************************/
+
+/**********  Addition 1: Add in label_2441 **************************/
+
+/* Add after the following code snippet:
+
+txtvalid = 0
+txtc = 1 + (lang("盗むなんてとんでもない。", "You can't just take it.") != "") + (lang("それは拾えない。", "It's not yours.") != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "")
+txtc = rnd(txtc)
+txt_select lang("それはあなたの物ではない。", "It's not your property."), lang("盗むなんてとんでもない。", "You can't just take it."), lang("それは拾えない。", "It's not yours."), "", "", "", "", "", ""
+tcol@txtfunc = 255, 255, 255
+*/
+
+if(adata(16, gdata(20)) != 35 && gdata(70) != 1010 && gdata(70) != 1008 && gdata(70) != 1009){
+	txtvalid = 0
+	txtc = 1 + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "")
+	txtc = rnd(txtc)
+	txt_select "Do you want to attempt to steal it?", "", "", "", "", "", "", "", ""
+	tcol@txtfunc = 255, 255, 255
+	promptl(0, 0) = stryes, "y", "0"
+	promptl(0, 1) = strno, "n", "1"
+	promptmax = 2
+	val = promptx, prompty, 160, 1
+	gosub *label_2517
+	if ( rtval == 0 ) {
+		gdata(91) = 105
+		gosub *label_2539
+		goto *turn_end
+	}
+}

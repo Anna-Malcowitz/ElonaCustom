@@ -1,0 +1,144 @@
+/* May 23 */
+//buff = lang("(見世物になることにすっかり慣れてしまったようだ。ぼんやりとどこか遠くを眺めている...)", "(Lily had to be thoroughly familiar spectacle. She is looking at somewhere far away ...)")
+buff = lang("(見世物になることにすっかり慣れてしまったようだ。ぼんやりとどこか遠くを眺めている...)", "(Lily appears to be entirely accustomed to being put on show. She stares blankly into the distance, as if looking somewhere far away...)")
+
+//txt_select lang("だが荷車が重すぎて帰還できなかった。", "Return can not be too heavy Cargo."), "", "", "", "", "", "", "", ""
+txt_select lang("だが荷車が重すぎて帰還できなかった。", "Return failed because your cargo is too heavy."), "", "", "", "", "", "", "", ""
+
+//txt_select lang("探偵がやってきたようだ。「クン...こ、これは事件の匂い！！！」", "Detective seems to have come."), "", "", "", "", "", "", "", ""
+txt_select lang("探偵がやってきたようだ。「クン...こ、これは事件の匂い！！！」", "A detective seems to have come." + cnvtalk("*Sniff*... I smell a case!!")), "", "", "", "", "", "", "", ""
+
+//txt_select lang("なんと..." + adata(23, gdata(66)) + "連勝を達成した！追加で20000の名声値を手に入れた。さらに" + syoukin + "gpの賞金が全ペットに贈られた。", "You gain 20000 fame.In addition, prize has been awarded to all pets."), "", "", "", "", "", "", "", ""
+txt_select lang("なんと..." + adata(23, gdata(66)) + "連勝を達成した！追加で20000の名声値を手に入れた。さらに" + syoukin + "gpの賞金が全ペットに贈られた。", "Amazing... You've reached " + adata(23, gdata(66)) + " wins in a row! You gain 20000 fame. Additionally, a prize of " + syoukin + "gp has been awarded to all pets."), "", "", "", "", "", "", "", ""
+
+//txt_select lang("あなたは重大な罪を犯した!", "You comit a serious crime!"), "", "", "", "", "", "", "", ""
+txt_select lang("あなたは重大な罪を犯した!", "You commit a serious crime!"), "", "", "", "", "", "", "", ""
+
+//txt_select lang(cdatan(0, rc) + "との契約期間が切れた。", "The period of contract with " + cdatan(0, rc) + " has been expired."), "", "", "", "", "", "", "", ""
+txt_select lang(cdatan(0, rc) + "との契約期間が切れた。", "The contractual period with " + cdatan(0, rc) + " has come to an end."), "", "", "", "", "", "", "", ""
+
+//txt_select lang(cdatan(0, rc) + "の力の大部分は、時と空間のうねりへと飲み込まれていった...", cdatan(0, rc) + " 's god power lost in a moment..."), "", "", "", "", "", "", "", ""
+txt_select lang(cdatan(0, rc) + "の力の大部分は、時と空間のうねりへと飲み込まれていった...", "Most of " + cdatan(0, rc) + "'s power has been swallowed by time and space..."), "", "", "", "", "", "", "", ""
+
+//txt_select lang(cdatan(0, rc) + "は腑抜けた。", cdatan(0, rc) + " became a dag."), "", "", "", "", "", "", "", ""
+txt_select lang(cdatan(0, rc) + "は腑抜けた。", cdatan(0, rc) + " became a coward."), "", "", "", "", "", "", "", ""
+
+//txt_select lang(cdatan(0, rc) + "の力の一部は世界の狭間へと飲み込まれていった...", cdatan(0, rc) + " 's god power lost in a moment..."), "", "", "", "", "", "", "", ""
+txt_select lang(cdatan(0, rc) + "の力の一部は世界の狭間へと飲み込まれていった...", "Some of " + cdatan(0, rc) +"'s power has been swallowed by the world..."), "", "", "", "", "", "", "", ""
+
+//txt_select lang(cdatan(0, rc) + "の神力は急激に失われていった...", cdatan(0, rc) + " 's god power lost in a moment..."), "", "", "", "", "", "", "", ""
+txt_select lang(cdatan(0, rc) + "の神力は急激に失われていった...", cdatan(0, rc) + " 's divine power has been suddenly lost..."), "", "", "", "", "", "", "", ""
+
+//listn(0, listmax) = lang("ソーサラー実習（攻撃魔法）", "Sorcier practice")
+listn(0, listmax) = lang("ソーサラー実習（攻撃魔法）", "Sorcerer Training (Attack Magic)")
+
+//listn(0, listmax) = lang("ウォーロック実習（上位攻撃魔法）", "Warlock practice")
+listn(0, listmax) = lang("ウォーロック実習（上位攻撃魔法）", "Warlock Training (High Lvl Atk Magic)")
+
+//listn(0, listmax) = lang("エンチャンター実習（付与魔法）", "Enchanter practice")
+listn(0, listmax) = lang("エンチャンター実習（付与魔法）", "Enchanter Training (Buffing Magic)")
+
+//listn(0, listmax) = lang("ヒーラー実習（回復魔法）", "Healer practice")
+listn(0, listmax) = lang("ヒーラー実習（回復魔法）", "Healer Training (Healing Magic)")
+
+//listn(0, listmax) = lang("シャーマン実習（特殊魔法）", "Shaman practice")
+listn(0, listmax) = lang("シャーマン実習（特殊魔法）", "Shaman Training (Special Magic)")
+
+//listn(0, listmax) = lang("メイジ実習（探索魔法）", "Mage practice")
+listn(0, listmax) = lang("メイジ実習（探索魔法）", "Mage Training (Exploration Magic)")
+
+//lang("Overdoseモードでは遺伝子を残せない。", "I do not make gene in Overdose mode.")
+lang("Overdoseモードでは遺伝子を残せない。", "You cannot create a gene in Overdose mode.")
+
+//s = lang("★Advancingモードはシステム面の穴を埋め同格要素の差を縮める方向で", "Advancing is normal mode.")
+s = lang("★Advancingモードはシステム面の穴を埋め同格要素の差を縮める方向で", "Advancing is the normal mode. You will face challenges and grow")
+
+//s = lang("前進を続けているモードです。調整が常に行われてバランス変動が多い反面、", ".")
+s = lang("前進を続けているモードです。調整が常に行われてバランス変動が多い反面、", "over time to overcome those challenges. Adjustments are constant")
+
+//s= lang("ロールプレイとある程度の実益を両立したい人、育成に力を入れたい人に", ".")
+s = lang("ロールプレイとある程度の実益を両立したい人、育成に力を入れたい人に", "so balance changes will happen, but this mode is suitable for those")
+
+//s = lang("おすすめです。", ".")
+s = lang("おすすめです。", "who want to roleplay while still putting some effort into the game.")
+
+//s = lang("★No futureモードは死亡時のペナルティの増加やセーブロードの制限、", "No future is hard mode.")
+s = lang("★No futureモードは死亡時のペナルティの増加やセーブロードの制限、", "No Future is a harder mode that includes increased penalties on death, restrictions")
+
+//s = lang("その他さまざまな危険要素が増えているモードです。地道な積み重ねや", "on saving and loading, and in increase in various other dangerous elements.")
+s = lang("その他さまざまな危険要素が増えているモードです。地道な積み重ねや", "You will not be able to load and save free.")
+
+//s = lang("慎重なプレイングを楽しめる人、そして貴重品を失うスリルやショックすらも", "In addition, you received various restrictions.")
+//s = lang("慎重なプレイングを楽しめる人、そして貴重品を失うスリルやショックすらも", "This mode is good for those who enjoy a slow and steady pace, along with")
+
+//s = lang("楽しめる人におすすめです。特にメリットはありませんが、", "Score is multiplied by 20 in the clear.")
+s = lang("楽しめる人におすすめです。特にメリットはありませんが、", "the thrill of danger and the potential shock of losing all of your items. There")
+
+//s = lang("クリア時のスコアが20倍になります。", "If you exit without saving of ESC key, ")
+s = lang("クリア時のスコアが20倍になります。", "are no special advantages, but your score will be multiplied by 20 on game clear.")
+
+//s = lang("EscキーかSでのセーブで終了しないとロード時にペナルティあり。", "then you will receive a penalty at load time.")
+s = lang("EscキーかSでのセーブで終了しないとロード時にペナルティあり。", "Quitting without using the ESC menu will incure a penalty on the next load.")
+
+//txt_select lang("バリバリ...ゴクリ。なんと！状態異常が回復した！", "Special candy was crunched down."), "", "", "", "", "", "", "", ""
+txt_select lang("バリバリ...ゴクリ。なんと！状態異常が回復した！", "*Munch munch*...*Gulp*! Wow! All status conditions were cured!"), "", "", "", "", "", "", "", ""
+
+//txt_select lang("あっ！空き瓶を井戸に落としてしまった...", "Ops! You drop the empty bottle into the well..."), "", "", "", "", "", "", "", ""
+txt_select lang("あっ！空き瓶を井戸に落としてしまった...", "Oops! You drop the empty bottle into the well..."), "", "", "", "", "", "", "", ""
+
+//txt_select lang("エターナルフォース一本につき一度しか使えない。無差別全域攻撃魔法を発動する？", "You can only use once per one Eternal Force. Do you want to invoke the maximum indifference magic?"), "", "", "", "", "", "", "", ""
+txt_select lang("エターナルフォース一本につき一度しか使えない。無差別全域攻撃魔法を発動する？", "Invoke a non-discrimantory, map-wide magic attack? This can only be used once per Eternal Force weapon."), "", "", "", "", "", "", "", ""
+
+//txt_select lang("ヤカテクト「ほな、今日のお小遣い！1gpも無駄にしたらあかんよ？」", "A voice echos, " + cnvtalk("This is pocket money today. After wasting it must 1gp.")), "", "", "", "", "", "", "", ""
+txt_select lang("ヤカテクト「ほな、今日のお小遣い！1gpも無駄にしたらあかんよ？」", "Yacatect: " + cnvtalk("Here, today's allowance! Don't waste even 1gp, okay?")), "", "", "", "", "", "", "", ""
+
+//txt_select lang("「ほれほれ、今月のお小遣いやでー！...無駄使いしたら許さへんよ」", cnvtalk("I give pocket money to you! You must spend it usefully!")), "", "", "", "", "", "", "", ""
+txt_select lang("「ほれほれ、今月のお小遣いやでー！...無駄使いしたら許さへんよ」", cnvtalk("Here you are! This month's allowance! ...I won't forgive you if you waste it.")), "", "", "", "", "", "", "", ""
+
+//txt_select lang("仲間にしか使えない。", "Seems to have no effect using."), "", "", "", "", "", "", "", ""
+txt_select lang("仲間にしか使えない。", "You can only use it on an ally."), "", "", "", "", "", "", "", ""
+
+//buff = lang("スターシャは、パルミアは、今どうなっているのだ...？", "Any assistance you provide to us will be most welcome.")
+buff = lang("スターシャは、パルミアは、今どうなっているのだ...？", "What will happen to Stersha and Palmia now...?")
+
+//listn(0, listmax) = lang("ごめんなさい", "I was looking for you.")
+listn(0, listmax) = lang("ごめんなさい", "I'm sorry.")
+
+//listn(0, listmax) = lang("サインください", "Good luck.")
+listn(0, listmax) = lang("サインください", "Can I have your autograph?")
+
+//listn(0, listmax) = lang("付き合ってください", "Good luck.")
+listn(0, listmax) = lang("付き合ってください", "Please go out with me.")
+
+//buff = lang("えっと...キミ、コンサートの邪魔だよ？", "Umm, you there. You're obstructing the concert alright?")
+buff = lang("えっと...キミ、コンサートの邪魔だよ？", "Umm... You're interrupting the concert, you know?")
+
+//buff = lang("わかってくれればいいの。あたしのコンサート楽しんでいってね！", "As long as you understand. Enjoy my concert, why don't you!")
+buff = lang("わかってくれればいいの。あたしのコンサート楽しんでいってね！", "As long as you understand. Enjoy the concert!")
+
+//buff = lang("...あと、おひねりもよろしくっ！", "...and, thanks for the donations!")
+buff = lang("...あと、おひねりもよろしくっ！", "...and all donations are welcome!")
+
+//buff = lang("あー。サインについてはヤカ姐も教えてくれなかったっけ...", "Oh. The Yaka lady wouldn't tell me what the sign was...")
+buff = lang("あー。サインについてはヤカ姐も教えてくれなかったっけ...", "Oh. Big sis Yacatect didn't tell me anything about doing autographs...")
+
+//buff = lang("練習しておくからまた今度、ね？", "I'll see you next practice, right?")
+buff = lang("練習しておくからまた今度、ね？", "Maybe next time, okay?")
+
+//listn(0, listmax) = lang("付き合ってください！", "Good luck.")
+listn(0, listmax) = lang("付き合ってください！", "Please go out with me!")
+
+//buff = lang("そ、そういうのはちょっと。事務所を通してもらわないと...", "Sorry, this is untranslated sentence.")
+buff = lang("そ、そういうのはちょっと。事務所を通してもらわないと...", "Uhhh. That's, well, you know... That kind of thing has to go through the bureau...")
+
+//listn(0, listmax) = lang("付き合ってくだぁさい！！", "Good luck.")
+listn(0, listmax) = lang("付き合ってくだぁさい！！", "Please go out with me!!")
+
+//buff = lang("ごめんね。そういうのって困るんだ。まだ曲も残ってるし...", "I'm sorry. So that bothers you. The tune still remains though...")
+buff = lang("ごめんね。そういうのって困るんだ。まだ曲も残ってるし...", "I'm sorry. I'm not interested in that sort of thing. All I need is my music...")
+
+//buff = lang("ひっ...！？ス、ストーカー？", "Oh my god! A stalker?!")
+buff = lang("ひっ...！？ス、ストーカー？", "Eeep!? A-are you a stalker?")
+
+//buff = lang("(騎士に引きずられていくあなたを見ながら、怯えている...)", "Sorry, this is untranslated sentence.")
+buff = lang("(騎士に引きずられていくあなたを見ながら、怯えている...)", "(Paralyzed with fright, you are carried away by the Golden Knights...)")

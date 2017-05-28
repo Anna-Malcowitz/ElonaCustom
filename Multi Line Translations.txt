@@ -1,0 +1,72 @@
+/*
+if ( jp ) {
+	txtvalid = 0
+	txtc = 1 + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "")
+	txtc = rnd(txtc)
+	txt_select lang("黄金の騎士たちが駆け付けてきた。", "Nazuna yells, " + cnvtalk("You've no need of fancy wear in training! Now, go change!")), "", "", "", "", "", "", "", ""
+	tcol@txtfunc = 255, 255, 255
+	txtef 5
+	txtmore
+	txtvalid = 0
+	txtc = 1 + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "")
+	txtc = rnd(txtc)
+	txt_select lang("「なんのつもりだ！」", "Nazuna yells, " + cnvtalk("You've no need of fancy wear in training! Now, go change!")), "", "", "", "", "", "", "", ""
+	tcol@txtfunc = 255, 255, 255
+	txtef 5
+	txtmore
+	txtvalid = 0
+	txtc = 1 + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "")
+	txtc = rnd(txtc)
+	txt_select lang("「変質者め、おとなしくしろ」", "Nazuna yells, " + cnvtalk("You've no need of fancy wear in training! Now, go change!")), "", "", "", "", "", "", "", ""
+	tcol@txtfunc = 255, 255, 255
+	txtef 5
+	txtmore
+	txtvalid = 0
+	txtc = 1 + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "")
+	txtc = rnd(txtc)
+	txt_select lang("「のこのこ現れるとはな！」", "Nazuna yells, " + cnvtalk("You've no need of fancy wear in training! Now, go change!")), "", "", "", "", "", "", "", ""
+	tcol@txtfunc = 255, 255, 255
+	txtef 5
+	txtmore
+	txtvalid = 0
+	txtc = 1 + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "")
+	txtc = rnd(txtc)
+	txt_select lang("「観念しろ！」", "Nazuna yells, " + cnvtalk("You've no need of fancy wear in training! Now, go change!")), "", "", "", "", "", "", "", ""
+	tcol@txtfunc = 255, 255, 255
+}
+*/
+---
+	txtvalid = 0
+	txtc = 1 + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "")
+	txtc = rnd(txtc)
+	txt_select lang("黄金の騎士たちが駆け付けてきた。", "The Golden Knights come rushing to the scene.", "", "", "", "", "", "", "", ""
+	tcol@txtfunc = 255, 255, 255
+	txtef 5
+	txtmore
+	txtvalid = 0
+	txtc = 1 + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "")
+	txtc = rnd(txtc)
+	txt_select lang("「なんのつもりだ！」", cnvtalk("What do you think you're doing?!")), "", "", "", "", "", "", "", ""
+	tcol@txtfunc = 255, 255, 255
+	txtef 5
+	txtmore
+	txtvalid = 0
+	txtc = 1 + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "")
+	txtc = rnd(txtc)
+	txt_select lang("「変質者め、おとなしくしろ」", cnvtalk("Behave yourself, pervert!")), "", "", "", "", "", "", "", ""
+	tcol@txtfunc = 255, 255, 255
+	txtef 5
+	txtmore
+	txtvalid = 0
+	txtc = 1 + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "")
+	txtc = rnd(txtc)
+	txt_select lang("「のこのこ現れるとはな！」", cnvtalk("Have some damned shame!")), "", "", "", "", "", "", "", ""
+	tcol@txtfunc = 255, 255, 255
+	txtef 5
+	txtmore
+	txtvalid = 0
+	txtc = 1 + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "") + ("" != "")
+	txtc = rnd(txtc)
+	txt_select lang("「観念しろ！」", cnvtalk("Don't resist!")), "", "", "", "", "", "", "", ""
+	tcol@txtfunc = 255, 255, 255
+---
