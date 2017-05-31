@@ -1,0 +1,22 @@
+/*
+	Checks a string for various placeholders, replaces them with the appropriate text, and then returns
+	the final string. String remains unmodified if placeholders are not found.
+
+	Written using 1.67, but should not require updating for different versions.
+*/
+#defcfunc ParseString str InputString
+	ReturnString = InputString
+	
+	if ( instr(ReturnString, 0, "%syujin%") != (-1)) {
+		PLen = strlen("%syujin%")
+		StringOffset = instr(ReturnString, 0, "%syujin%")
+		ReturnString = strmid(ReturnString, 0, StringOffset) + _syujin(cdata(8, 0)) + strmid(ReturnString, StringOffset + PLen, strlen(ReturnString)- StringOffset - PLen)
+	}
+	
+	if ( instr(ReturnString, 0, "%onii%") != (-1)) {
+		PLen = strlen("%onii%")
+		StringOffset = instr(ReturnString, 0, "%onii%")
+		ReturnString = strmid(ReturnString, 0, StringOffset) + _onii(cdata(8, 0)) + strmid(ReturnString, StringOffset + PLen, strlen(ReturnString)- StringOffset - PLen)
+	}
+
+	return ReturnString
