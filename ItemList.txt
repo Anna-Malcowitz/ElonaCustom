@@ -1,4 +1,14 @@
 ID	Type	Name	Value
+1071.JP	-	家畜の餌	0
+1071.EN	-	livestock feed	0
+1070.JP	-	緑茶	0
+1070.EN	-	green tea	0
+1069.JP	-	紅茶	0
+1069.EN	-	black tea	0
+1068.JP	heavenly jewel	黄昏の心臓	0
+1068.EN	heavenly jewel	heart of twilight	0
+1067.JP	-	《クラウンポイント》	0
+1067.EN	-	<Crown Point>	0
 1066.JP	-	スターダスト	0
 1066.EN	-	stardust	0
 1065.JP	-	素敵な花束	0
