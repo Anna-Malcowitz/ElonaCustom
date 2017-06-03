@@ -60,10 +60,10 @@ This code adds multiple new tabs to the "z" menu when examining inventory. Code 
 			if ( jp ) {
 				colorres
 				if ( inv(40 + cnt * 2 + 1, eq2_itempos) >= 0 ) {
-					mes "œ"
+					mes "●"
 				}
 				else {
-					mes "¥"
+					mes "▼"
 				}
 				pos eq2_posx + LoopCount * 20 + 5, eq2_posy + 1
 				color 0, 0, 0
