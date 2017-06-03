@@ -60,10 +60,10 @@ This code adds multiple new tabs to the "z" menu when examining inventory. Code 
 			if ( jp ) {
 				colorres
 				if ( inv(40 + cnt * 2 + 1, eq2_itempos) >= 0 ) {
-					mes "œ"
+					mes "ÂÅ“"
 				}
 				else {
-					mes "¥"
+					mes "ÂÂ¥"
 				}
 				pos eq2_posx + LoopCount * 20 + 5, eq2_posy + 1
 				color 0, 0, 0
@@ -92,11 +92,11 @@ This code adds multiple new tabs to the "z" menu when examining inventory. Code 
 
 /**********  Addition 2: Replace Line **************************/
 //Required. Replaces the following line. Two occurances.
-//mes lang("‰Î —â —‹ ˆÅ Œ¶ “Å – ‰¹ _ “× –‚", "Fi Co Li Da Mi Po Nt So Nr Ch Ma")
+//mes lang("ç« å†· é›· é—‡ å¹» æ¯’ ç„ éŸ³ ç¥ æ²Œ é­”", "Fi Co Li Da Mi Po Nt So Nr Ch Ma")
 
 switch showresist
 	case 1
-		mes lang("‰Î —â —‹ ˆÅ Œ¶ “Å – ‰¹ _ “× –‚", "Fi Co Li Da Mi Po Nt So Nr Ch Ma")
+		mes lang("ç« å†· é›· é—‡ å¹» æ¯’ ç„ éŸ³ ç¥ æ²Œ é­”", "Fi Co Li Da Mi Po Nt So Nr Ch Ma")
 		swbreak
 	case 2
 		mes "Li Mn St Co Dx Pe Lr Wi Mg Ch Sp"
