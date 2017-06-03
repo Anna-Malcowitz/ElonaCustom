@@ -1,0 +1,162 @@
+/*******************************************************************************
+This code adds multiple new tabs to the "z" menu when examining inventory. Code written usen
+1.68.
+********************************************************************************/
+
+/**********  Addition 1: Add Anywhere **************************/
+//Required. Function for printing out the equipment values.
+
+#deffunc equipinfo2 int eq2_itempos, int eq2_posx, int eq2_posy, int eq2_setnum
+	if ( inv(8, eq2_itempos) < 3 ) {
+		return
+	}
+	switch eq2_setnum
+		case 2
+			ValList = 2,3,10,11,12,13,14,15,16,17,18
+			swbreak
+		case 3
+			ValList = 19,100,101,102,103,104,105,106,107,108,109
+			swbreak
+		case 4
+			ValList = 110,111,150,151,152,153,154,155,156,157,158
+			swbreak
+		case 5
+			ValList = 159,160,161,162,163,164,165,166,167,168,169
+			swbreak
+		case 6
+			ValList = 170,171,172,173,174,175,176,177,178,179,180
+			swbreak
+		case 7
+			ValList = 181,182,183,184,185,186,187,188,189,190,300
+			swbreak
+		case 8
+			ValList = 301, 0
+			swbreak
+	swend
+	LoopCount = 0
+	While LoopCount < 11
+		if (ValList(LoopCount) == 0) {
+			_break
+		}
+		repeat 15
+			p@m66 = inv(40 + cnt * 2, eq2_itempos)
+			if ( p@m66 == 0 ) {
+				break
+			}
+			i@m66 = p@m66 / 10000
+			if ( i@m66 != 1 && i@m66 != 3 ) {
+				continue
+			}
+			if (p@m66 \ 10000 != ValList(LoopCount)) {
+				continue
+			}
+			pos eq2_posx + LoopCount * 20, eq2_posy
+			p@m66 = abs(inv(40 + cnt * 2 + 1, eq2_itempos) / 50 + 1) 
+			if (inv(40 + cnt * 2, equipinfo_arg1) / 10000 == 3){
+				s@m66 = " " + ((p@m66 / 5) + 1)
+			} else {
+				s@m66 = " " + p@m66
+			}			
+			if ( jp ) {
+				colorres
+				if ( inv(40 + cnt * 2 + 1, eq2_itempos) >= 0 ) {
+					mes "Åú"
+				}
+				else {
+					mes "Å•"
+				}
+				pos eq2_posx + LoopCount * 20 + 5, eq2_posy + 1
+				color 0, 0, 0
+				mes s@m66
+				pos eq2_posx + LoopCount * 20 + 4, eq2_posy
+				color 255, 255, 255
+				mes s@m66
+			}
+			else {
+				color 80, 60, 40
+				pos eq2_posx + LoopCount * 20 + 5, eq2_posy
+				mes "" + s@m66
+				colorres
+				if( inv(40 + cnt * 2 + 1, eq2_itempos) < -99 ) {
+					color 140, 26, 36
+				} else {
+					color 26, 140, 90
+				}
+				pos eq2_posx + LoopCount * 20 + 4, eq2_posy
+				mes "" + s@m66
+			}
+		loop
+		LoopCount++
+	wend
+	return
+
+/**********  Addition 2: Replace Line **************************/
+//Required. Replaces the following line. Two occurances.
+//mes lang("âŒ ó‚ óã à≈ å∂ ì≈ çñ âπ ê_ ì◊ ñÇ", "Fi Co Li Da Mi Po Nt So Nr Ch Ma")
+
+switch showresist
+	case 1
+		mes lang("âŒ ó‚ óã à≈ å∂ ì≈ çñ âπ ê_ ì◊ ñÇ", "Fi Co Li Da Mi Po Nt So Nr Ch Ma")
+		swbreak
+	case 2
+		mes "Li Mn St Co Dx Pe Lr Wi Mg Ch Sp"
+		swbreak
+	case 3
+		mes "Lu Ls Ss Ax Bl Po Sv Mr Sc Bo Cb"
+		swbreak
+	case 4
+		mes "Fr Tr Lt Ge Ta Wl He Md Ne Sl Lp"
+		swbreak
+	case 5
+		mes "Dt In An Sq Mi Mc Me Dw Th Sh Ha"
+		swbreak
+	case 6
+		mes "Ma La Ca Ev Dv Di Cr Tl Al Je Ga"
+		swbreak
+	case 7
+		mes "Fa Tv Pr Ck Fi Em Gv Cm Mk Sw Pp"
+		swbreak
+	case 8
+		mes "Rd"
+		swbreak
+swend
+
+/**********  Addition 3: Replace Section **************************/
+
+/* Required. Replaces the following section (2 occurances)
+
+if ( showresist == 1 ) {
+	showresist = 0
+}
+else {
+	showresist = 1
+}
+
+*/
+
+if ( showresist == 8 ) {
+	showresist = 0
+}
+else {
+	showresist++
+}
+
+/**********  Addition 4: Replace Lines **************************/
+//Required. Replaces the following line.
+//equipinfo p(1), wx + 320, wy + 60 + cnt * 19 + 2
+
+if ( showresist == 1 ) {
+	equipinfo p(1), wx + 320, wy + 60 + cnt * 19 + 2
+} else {
+	equipinfo2 p(1), wx + 320, wy + 60 + cnt * 19 + 2, showresist
+}
+
+/**********  Addition 5: Replace Lines **************************/
+//Required. Replaces the following line.
+//equipinfo p, wx + 300, wy + 60 + cnt * 19 + 2
+
+if ( showresist == 1 ) {
+	equipinfo p, wx + 300, wy + 60 + cnt * 19 + 2
+} else {
+	equipinfo2 p, wx + 300, wy + 60 + cnt * 19 + 2, showresist
+}
