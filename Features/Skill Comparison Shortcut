@@ -52,10 +52,10 @@ This code adds multiple new tabs to the "z" menu when examining inventory. Code 
 			}
 			pos eq2_posx + LoopCount * 20, eq2_posy
 			p@m66 = abs(inv(40 + cnt * 2 + 1, eq2_itempos) / 50 + 1) 
-			if (inv(40 + cnt * 2, equipinfo_arg1) / 10000 == 3){
-				s@m66 = " " + ((p@m66 / 5) + 1)
+			if (int(inv(40 + cnt * 2, eq2_itempos) / 10000) == 3){
+				s@m66 = "" + ((p@m66 / 5) + 1)
 			} else {
-				s@m66 = " " + p@m66
+				s@m66 = "" + p@m66
 			}			
 			if ( jp ) {
 				colorres
@@ -77,7 +77,7 @@ This code adds multiple new tabs to the "z" menu when examining inventory. Code 
 				pos eq2_posx + LoopCount * 20 + 5, eq2_posy
 				mes "" + s@m66
 				colorres
-				if( inv(40 + cnt * 2 + 1, eq2_itempos) < -99 ) {
+				if( inv(40 + cnt * 2 + 1, eq2_itempos) < (-99) ) {
 					color 140, 26, 36
 				} else {
 					color 26, 140, 90
@@ -89,7 +89,7 @@ This code adds multiple new tabs to the "z" menu when examining inventory. Code 
 		LoopCount++
 	wend
 	return
-
+	
 /**********  Addition 2: Replace Line **************************/
 //Required. Replaces the following line. Two occurances.
 //mes lang("火 冷 雷 闇 幻 毒 獄 音 神 沌 魔", "Fi Co Li Da Mi Po Nt So Nr Ch Ma")
